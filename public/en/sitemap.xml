@@ -2,93 +2,93 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ericbrasiln&gt;.github.io/blog/</loc>
+    <loc>https://ericbrasiln.github.io/blog/</loc>
     <lastmod>2022-02-23T22:44:04-03:00</lastmod>
   </url><url>
-    <loc>https://ericbrasiln&gt;.github.io/</loc>
-    <lastmod>2022-02-23T22:44:04-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://ericbrasiln%3e.github.io/pt/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ericbrasiln%3e.github.io/"
-                />
-  </url><url>
-    <loc>https://ericbrasiln&gt;.github.io/blog/my-first-post/</loc>
-    <lastmod>2022-02-23T22:44:04-03:00</lastmod>
-  </url><url>
-    <loc>https://ericbrasiln&gt;.github.io/tags/</loc>
+    <loc>https://ericbrasiln.github.io/</loc>
     <lastmod>2022-02-23T22:44:04-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://ericbrasiln%3e.github.io/pt/tags/"
+                href="https://ericbrasiln.github.io/pt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ericbrasiln%3e.github.io/tags/"
+                href="https://ericbrasiln.github.io/"
                 />
   </url><url>
-    <loc>https://ericbrasiln&gt;.github.io/tags/untagged/</loc>
+    <loc>https://ericbrasiln.github.io/blog/my-first-post/</loc>
     <lastmod>2022-02-23T22:44:04-03:00</lastmod>
   </url><url>
-    <loc>https://ericbrasiln&gt;.github.io/publicacoes/artigos/</loc>
-    <lastmod>2022-02-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ericbrasiln&gt;.github.io/publicacoes/livros/</loc>
-    <lastmod>2022-02-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ericbrasiln&gt;.github.io/projetos/</loc>
-    <lastmod>2022-02-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ericbrasiln&gt;.github.io/projetos/concluidos/</loc>
-    <lastmod>2022-02-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ericbrasiln&gt;.github.io/projetos/em-andamento/</loc>
-    <lastmod>2022-02-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ericbrasiln&gt;.github.io/publicacoes/</loc>
-    <lastmod>2022-02-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ericbrasiln&gt;.github.io/materiais/materiais-oficinas/</loc>
-  </url><url>
-    <loc>https://ericbrasiln&gt;.github.io/blog/</loc>
+    <loc>https://ericbrasiln.github.io/tags/</loc>
+    <lastmod>2022-02-23T22:44:04-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://ericbrasiln%3e.github.io/pt/blog/"
+                href="https://ericbrasiln.github.io/pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ericbrasiln%3e.github.io/blog/"
+                href="https://ericbrasiln.github.io/tags/"
                 />
   </url><url>
-    <loc>https://ericbrasiln&gt;.github.io/contato/</loc>
+    <loc>https://ericbrasiln.github.io/tags/untagged/</loc>
+    <lastmod>2022-02-23T22:44:04-03:00</lastmod>
   </url><url>
-    <loc>https://ericbrasiln&gt;.github.io/cv/</loc>
+    <loc>https://ericbrasiln.github.io/publicacoes/artigos/</loc>
+    <lastmod>2022-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ericbrasiln&gt;.github.io/falas/</loc>
+    <loc>https://ericbrasiln.github.io/publicacoes/livros/</loc>
+    <lastmod>2022-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ericbrasiln&gt;.github.io/materiais/</loc>
+    <loc>https://ericbrasiln.github.io/projetos/</loc>
+    <lastmod>2022-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ericbrasiln&gt;.github.io/falas/mesas/</loc>
+    <loc>https://ericbrasiln.github.io/projetos/concluidos/</loc>
+    <lastmod>2022-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ericbrasiln&gt;.github.io/series/</loc>
+    <loc>https://ericbrasiln.github.io/projetos/em-andamento/</loc>
+    <lastmod>2022-02-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ericbrasiln.github.io/publicacoes/</loc>
+    <lastmod>2022-02-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ericbrasiln.github.io/materiais/materiais-oficinas/</loc>
+  </url><url>
+    <loc>https://ericbrasiln.github.io/blog/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://ericbrasiln%3e.github.io/pt/series/"
+                href="https://ericbrasiln.github.io/pt/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ericbrasiln%3e.github.io/series/"
+                href="https://ericbrasiln.github.io/blog/"
+                />
+  </url><url>
+    <loc>https://ericbrasiln.github.io/contato/</loc>
+  </url><url>
+    <loc>https://ericbrasiln.github.io/cv/</loc>
+  </url><url>
+    <loc>https://ericbrasiln.github.io/falas/</loc>
+  </url><url>
+    <loc>https://ericbrasiln.github.io/materiais/</loc>
+  </url><url>
+    <loc>https://ericbrasiln.github.io/falas/mesas/</loc>
+  </url><url>
+    <loc>https://ericbrasiln.github.io/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://ericbrasiln.github.io/pt/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ericbrasiln.github.io/series/"
                 />
   </url>
 </urlset>

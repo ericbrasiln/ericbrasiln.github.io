@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ericbrasiln&gt;.github.io/pt/blog/</loc>
+    <loc>https://ericbrasiln.github.io/pt/blog/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ericbrasiln%3e.github.io/blog/"
+                href="https://ericbrasiln.github.io/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://ericbrasiln%3e.github.io/pt/blog/"
+                href="https://ericbrasiln.github.io/pt/blog/"
                 />
   </url><url>
-    <loc>https://ericbrasiln&gt;.github.io/pt/</loc>
+    <loc>https://ericbrasiln.github.io/pt/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ericbrasiln%3e.github.io/"
+                href="https://ericbrasiln.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://ericbrasiln%3e.github.io/pt/"
+                href="https://ericbrasiln.github.io/pt/"
                 />
   </url><url>
-    <loc>https://ericbrasiln&gt;.github.io/pt/series/</loc>
+    <loc>https://ericbrasiln.github.io/pt/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ericbrasiln%3e.github.io/series/"
+                href="https://ericbrasiln.github.io/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://ericbrasiln%3e.github.io/pt/series/"
+                href="https://ericbrasiln.github.io/pt/series/"
                 />
   </url><url>
-    <loc>https://ericbrasiln&gt;.github.io/pt/tags/</loc>
+    <loc>https://ericbrasiln.github.io/pt/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ericbrasiln%3e.github.io/tags/"
+                href="https://ericbrasiln.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://ericbrasiln%3e.github.io/pt/tags/"
+                href="https://ericbrasiln.github.io/pt/tags/"
                 />
   </url>
 </urlset>

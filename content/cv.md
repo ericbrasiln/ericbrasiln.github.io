@@ -3,8 +3,7 @@ layout: page
 title: Currículo Resumido
 description: >
   Currículo resumido.
-hide_description: true
-sitemap: false
+date: "2022-02-24"
 ---
 Professor e coordenador (2019-2020) do curso de licenciatura em História e professor do Bacharelado Interdisciplinar em Humanidades da UNILAB (Universidade da Integração Internacional da Lusofonia Afro-brasileira), campus dos Malês, BA. 
 

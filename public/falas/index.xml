@@ -5,14 +5,28 @@
     <link>https://ericbrasiln.github.io/falas/</link>
     <description>Recent content in Falas on Eric Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-br</language><atom:link href="https://ericbrasiln.github.io/falas/index.xml" rel="self" type="application/rss+xml" />
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 24 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ericbrasiln.github.io/falas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aulas em vídeo</title>
+      <link>https://ericbrasiln.github.io/falas/video-aulas/</link>
+      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ericbrasiln.github.io/falas/video-aulas/</guid>
+      <description>Curso Introdução à História Digital completo: 
+Curso Ferramentas Digitais e a Pesquisa em Humanidades completo. 
+Minicurso Uma introdução ao Markdown e suas possibilidades no ensino e divulgação científica   </description>
+    </item>
+    
     <item>
       <title>Mesas</title>
       <link>https://ericbrasiln.github.io/falas/mesas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ericbrasiln.github.io/falas/mesas/</guid>
-      <description>2020 Quem tem medo dos métodos digitais de pesquisa?. Congresso Virtual UFBA 2020. Inteligência artificial e humanidades, 6º Simpósio Integrado UNIFAL-MG, 08/10/2020. Emancipações, pós-abolição e racismo no Brasil. Mesa do projeto &amp;ldquo;Trocando em miúdos&amp;rdquo;, UEMG, 09-10-2020 Condições de produção da história em tempos digitais: experimentação e práticas híbridas. Workshops metodológicos, LABHD-UFBA, 29-10-2020. Emancpações e Pós-Abolição: História Pública e ensino de História nas mídias sociais. Webnário promovido pelo Gt Emancipações e Pós-Abolição da Anpuh, 09-11-2020 Dá pra pesquisar o Caribe no Brasil?</description>
+      <description>2020 Quem tem medo dos métodos digitais de pesquisa?. Congresso Virtual UFBA 2020.   Inteligência artificial e humanidades, 6º Simpósio Integrado UNIFAL-MG, 08/10/2020.   Emancipações, pós-abolição e racismo no Brasil. Mesa do projeto &amp;ldquo;Trocando em miúdos&amp;rdquo;, UEMG, 09-10-2020 
+Condições de produção da história em tempos digitais: experimentação e práticas híbridas. Workshops metodológicos, LABHD-UFBA, 29-10-2020. 
+Emancpações e Pós-Abolição: História Pública e ensino de História nas mídias sociais. Webnário promovido pelo Gt Emancipações e Pós-Abolição da Anpuh, 09-11-2020</description>
     </item>
     
   </channel>

@@ -8,12 +8,12 @@
     <language>pt-br</language>
     <lastBuildDate>Wed, 23 Feb 2022 22:44:04 -0300</lastBuildDate><atom:link href="https://ericbrasiln.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
+      <title>Novo Site</title>
       <link>https://ericbrasiln.github.io/blog/my-first-post/</link>
       <pubDate>Wed, 23 Feb 2022 22:44:04 -0300</pubDate>
       
       <guid>https://ericbrasiln.github.io/blog/my-first-post/</guid>
-      <description></description>
+      <description>Atualização do site pessoal para HUGO com o tema criado por rhazdon.</description>
     </item>
     
     <item>
@@ -27,6 +27,38 @@
     </item>
     
     <item>
+      <title>Aulas em vídeo</title>
+      <link>https://ericbrasiln.github.io/falas/video-aulas/</link>
+      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ericbrasiln.github.io/falas/video-aulas/</guid>
+      <description>Curso Introdução à História Digital completo: 
+Curso Ferramentas Digitais e a Pesquisa em Humanidades completo. 
+Minicurso Uma introdução ao Markdown e suas possibilidades no ensino e divulgação científica   </description>
+    </item>
+    
+    <item>
+      <title>Contatos</title>
+      <link>https://ericbrasiln.github.io/contato/</link>
+      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ericbrasiln.github.io/contato/</guid>
+      <description>E-mails:  ericbrasiln@protonmail.com profericbrasil@unilab.edu.br  Linktree Lattes - Orcid - ResearchGate - Academia.edu - GitHub - Twitter</description>
+    </item>
+    
+    <item>
+      <title>Currículo Resumido</title>
+      <link>https://ericbrasiln.github.io/cv/</link>
+      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ericbrasiln.github.io/cv/</guid>
+      <description>Professor e coordenador (2019-2020) do curso de licenciatura em História e professor do Bacharelado Interdisciplinar em Humanidades da UNILAB (Universidade da Integração Internacional da Lusofonia Afro-brasileira), campus dos Malês, BA.
+Autor do livro A Corte em Festa: experiências negras em carnavais do Rio de Janeiro (1879-1888) (Editora Prismas, 2016).
+Doutor (2016) e Mestre (2011) pelo Programa de Pós­-Graduação em História Social da Universidade Federal Fluminense.
+Vencedor do primeiro e segundo lugares no Concurso de Monografias Silvio Romero de 2011 e 2020 respectivamente, promovido pelo Centro Nacional de Folclore e Cultura Popular.</description>
+    </item>
+    
+    <item>
       <title>Livros publicados, organizados e capítulos</title>
       <link>https://ericbrasiln.github.io/publicacoes/livros/</link>
       <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
@@ -34,6 +66,17 @@
       <guid>https://ericbrasiln.github.io/publicacoes/livros/</guid>
       <description>Veja aqui as principais publicações nos últimos 5 anos.
  ABREU, M.; BRASIL, E. Toward a History of Carnival. In: Oxford Research Encyclopedia of Latin American History. Oxford University Press, 2020. ABREU, M.; XAVIER, G.; MONTEIRO, L.; BRASIL, E (orgs). Cultura negra: trajetórias e lutas de intelectuais negros. Niterói: EdUFF, 2018. v. 2 ABREU, M.; XAVIER, G.; MONTEIRO, L.; BRASIL, E (orgs). Cultura negra: festas, carnavais e patrimônios negros. Niterói: EdUFF, 2018.</description>
+    </item>
+    
+    <item>
+      <title>Mesas</title>
+      <link>https://ericbrasiln.github.io/falas/mesas/</link>
+      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ericbrasiln.github.io/falas/mesas/</guid>
+      <description>2020 Quem tem medo dos métodos digitais de pesquisa?. Congresso Virtual UFBA 2020.   Inteligência artificial e humanidades, 6º Simpósio Integrado UNIFAL-MG, 08/10/2020.   Emancipações, pós-abolição e racismo no Brasil. Mesa do projeto &amp;ldquo;Trocando em miúdos&amp;rdquo;, UEMG, 09-10-2020 
+Condições de produção da história em tempos digitais: experimentação e práticas híbridas. Workshops metodológicos, LABHD-UFBA, 29-10-2020. 
+Emancpações e Pós-Abolição: História Pública e ensino de História nas mídias sociais. Webnário promovido pelo Gt Emancipações e Pós-Abolição da Anpuh, 09-11-2020</description>
     </item>
     
     <item>
@@ -57,42 +100,38 @@
     <item>
       <title>Apresentações, oficinas, minicursos, tutoriais</title>
       <link>https://ericbrasiln.github.io/materiais/materiais-oficinas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ericbrasiln.github.io/materiais/materiais-oficinas/</guid>
-      <description>Dá pra pesquisar o Caribe do Brasil? Reflexões teórico-metodológicas. Material para a mesa promovida pelo Canal da América - 2020-11-30, 17h.
+      <description>Material de apresentações e mesas   Dá pra pesquisar o Caribe do Brasil? Reflexões teórico-metodológicas. Material para a mesa promovida pelo Canal da América - 2020-11-30, 17h.
   Eu, robô? por uma #HistóriaDigital crítica no ensino e formação de professores. Material para a mesa &amp;ldquo;História Pública e ensino de História nas mídias sociais&amp;rdquo; do webnário do Gtep, 09/11/2020.
-  Pós-Abolição: pesquisa e esperanças para a história social do Brasil. Apresentação para a mesa [&amp;lsquo;Trocando em Miúdos&amp;rsquo;], UEMG(https://youtu.</description>
+  Pós-Abolição: pesquisa e esperanças para a história social do Brasil.</description>
     </item>
     
     <item>
-      <title>Contatos</title>
-      <link>https://ericbrasiln.github.io/contato/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Aulas e Cursos</title>
+      <link>https://ericbrasiln.github.io/materiais/aulas/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ericbrasiln.github.io/contato/</guid>
-      <description>E-mails:  ericbrasiln@protonmail.com profericbrasil@unilab.edu.br  Linktree Lattes - Orcid - ResearchGate - Academia.edu - GitHub - Twitter</description>
+      <guid>https://ericbrasiln.github.io/materiais/aulas/</guid>
+      <description>Sites e apresentações de disciplinas e aulas   Curso: CCLHM0060 - Introdução à História Digital - 2021.1
+  Curso: CCLHM0057 - História da América: colonização e resistência - 2021.1
+  Curso: CCLHM0057 - História da América: colonização e resistência - 2020.1
+  Curso: BHUM0004 - Processos coloniais e a construação da modernidade - 2020.1
+  Curso: Ferramentas Digitais e a pesquisa em Humanidades - Plex (2020)</description>
     </item>
     
     <item>
-      <title>Currículo Resumido</title>
-      <link>https://ericbrasiln.github.io/cv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Ferramentas Digitais</title>
+      <link>https://ericbrasiln.github.io/materiais/ferramentas/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ericbrasiln.github.io/cv/</guid>
-      <description>Professor e coordenador (2019-2020) do curso de licenciatura em História e professor do Bacharelado Interdisciplinar em Humanidades da UNILAB (Universidade da Integração Internacional da Lusofonia Afro-brasileira), campus dos Malês, BA.
-Autor do livro A Corte em Festa: experiências negras em carnavais do Rio de Janeiro (1879-1888) (Editora Prismas, 2016).
-Doutor (2016) e Mestre (2011) pelo Programa de Pós­-Graduação em História Social da Universidade Federal Fluminense.
-Vencedor do primeiro e segundo lugares no Concurso de Monografias Silvio Romero de 2011 e 2020 respectivamente, promovido pelo Centro Nacional de Folclore e Cultura Popular.</description>
-    </item>
-    
-    <item>
-      <title>Mesas</title>
-      <link>https://ericbrasiln.github.io/falas/mesas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ericbrasiln.github.io/falas/mesas/</guid>
-      <description>2020 Quem tem medo dos métodos digitais de pesquisa?. Congresso Virtual UFBA 2020. Inteligência artificial e humanidades, 6º Simpósio Integrado UNIFAL-MG, 08/10/2020. Emancipações, pós-abolição e racismo no Brasil. Mesa do projeto &amp;ldquo;Trocando em miúdos&amp;rdquo;, UEMG, 09-10-2020 Condições de produção da história em tempos digitais: experimentação e práticas híbridas. Workshops metodológicos, LABHD-UFBA, 29-10-2020. Emancpações e Pós-Abolição: História Pública e ensino de História nas mídias sociais. Webnário promovido pelo Gt Emancipações e Pós-Abolição da Anpuh, 09-11-2020 Dá pra pesquisar o Caribe no Brasil?</description>
+      <guid>https://ericbrasiln.github.io/materiais/ferramentas/</guid>
+      <description>Repositório Digital das Humanidades - REDHBR Acesse aqui a página do REDHBR!
+O REDHBR agrega códigos para coleta automatizada de dados referentes à produção intelectual dos principais congressos e eventos das áreas das humanidades no Brasil.
+Os scripts, as bases de dados e todos os documentos estão disponíveis e poderão ser baixados com apenas um clique.
+pyHDB - Ferramenta heurística para a Hemeroteca Digital Brasileira Acesse aqui a ferramenta
+Ferramenta de auxílio metodológico para pesquisa na Hemeroteca Digital Brasileira da Biblioteca Nacional.</description>
     </item>
     
   </channel>

@@ -34,13 +34,28 @@
                 href="https://ericbrasiln.github.io/tags/"
                 />
   </url><url>
-    <loc>https://ericbrasiln.github.io/tags/untagged/</loc>
+    <loc>https://ericbrasiln.github.io/tags/teste/</loc>
     <lastmod>2022-02-23T22:44:04-03:00</lastmod>
   </url><url>
     <loc>https://ericbrasiln.github.io/publicacoes/artigos/</loc>
     <lastmod>2022-02-24T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://ericbrasiln.github.io/falas/video-aulas/</loc>
+    <lastmod>2022-02-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ericbrasiln.github.io/contato/</loc>
+    <lastmod>2022-02-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ericbrasiln.github.io/cv/</loc>
+    <lastmod>2022-02-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ericbrasiln.github.io/falas/</loc>
+    <lastmod>2022-02-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ericbrasiln.github.io/publicacoes/livros/</loc>
+    <lastmod>2022-02-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ericbrasiln.github.io/falas/mesas/</loc>
     <lastmod>2022-02-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ericbrasiln.github.io/projetos/</loc>
@@ -56,6 +71,16 @@
     <lastmod>2022-02-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ericbrasiln.github.io/materiais/materiais-oficinas/</loc>
+    <lastmod>2020-02-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ericbrasiln.github.io/materiais/aulas/</loc>
+    <lastmod>2020-02-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ericbrasiln.github.io/materiais/ferramentas/</loc>
+    <lastmod>2020-02-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ericbrasiln.github.io/materiais/</loc>
+    <lastmod>2020-02-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ericbrasiln.github.io/blog/</loc>
     <xhtml:link
@@ -68,16 +93,6 @@
                 hreflang="en"
                 href="https://ericbrasiln.github.io/blog/"
                 />
-  </url><url>
-    <loc>https://ericbrasiln.github.io/contato/</loc>
-  </url><url>
-    <loc>https://ericbrasiln.github.io/cv/</loc>
-  </url><url>
-    <loc>https://ericbrasiln.github.io/falas/</loc>
-  </url><url>
-    <loc>https://ericbrasiln.github.io/materiais/</loc>
-  </url><url>
-    <loc>https://ericbrasiln.github.io/falas/mesas/</loc>
   </url><url>
     <loc>https://ericbrasiln.github.io/series/</loc>
     <xhtml:link

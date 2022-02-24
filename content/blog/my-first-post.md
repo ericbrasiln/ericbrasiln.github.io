@@ -1,10 +1,10 @@
 ---
-title: "My First Post"
+title: "Novo Site"
 date: 2022-02-23T22:44:04-03:00
-draft: true
 toc: false
 images:
 tags:
-  - untagged
+  - teste
 ---
 
+Atualização do site pessoal para HUGO com o tema criado por [rhazdon](https://github.com/rhazdon).

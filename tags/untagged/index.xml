@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>untagged on Eric Brasil</title>
-    <link>https://ericbrasiln&gt;.github.io/tags/untagged/</link>
+    <link>https://ericbrasiln.github.io/tags/untagged/</link>
     <description>Recent content in untagged on Eric Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Wed, 23 Feb 2022 22:44:04 -0300</lastBuildDate><atom:link href="https://ericbrasiln>.github.io/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Feb 2022 22:44:04 -0300</lastBuildDate><atom:link href="https://ericbrasiln.github.io/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://ericbrasiln&gt;.github.io/blog/my-first-post/</link>
+      <link>https://ericbrasiln.github.io/blog/my-first-post/</link>
       <pubDate>Wed, 23 Feb 2022 22:44:04 -0300</pubDate>
       
-      <guid>https://ericbrasiln&gt;.github.io/blog/my-first-post/</guid>
+      <guid>https://ericbrasiln.github.io/blog/my-first-post/</guid>
       <description></description>
     </item>
     

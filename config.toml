@@ -1,0 +1,123 @@
+baseurl      = "localhost"
+title        = "Eric Brasil"
+languageCode = "pt-br"
+theme        = "hello-friend-ng"
+paginate     = 10
+
+enableEmoji     = true
+[author]
+  name = "Eric Brasil"
+
+[blackfriday]
+  hrefTargetBlank = true
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+  # Subtitle for home
+  homeSubtitle = "historiador e professor - IHLM/UNILAB"
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Enable sharing buttons, if you like
+  enableSharingButtons = true
+
+  # Metadata mostly used in document's head
+  description = "Site pessoal de Eric Brasil"
+  keywords = "homepage, blog"
+  images = [""]
+  enableThemeToggle = true
+  [params.footer]
+    trademark = true
+    rss = false
+    copyright = true
+    author = true
+
+    topText = []
+    bottomText = [
+      "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
+      "Made with &#10084; by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
+    ]
+  [params.portrait]
+    path     = "img/perfil01.jpg"
+    alt      = "Portrait"
+    maxWidth = "50px"
+[[params.social]]
+  name = "github"
+  url = "https://github.com/ericbrasiln"
+[[params.social]]
+  name = "twitter"
+  url = "https://twitter.com/ericbrasiln"
+[[params.social]]
+  name = "email"
+  url = "mailto:ericbrasiln@protonmail.com"
+[[params.social]]
+  name = "telegram"
+  url = "https://t.me/ericbrasiln"  
+[[params.social]]
+  name = "youtube"
+  url = "https://www.youtube.com/channel/UC-tuyLIm7Ww_TDjKdHdnaAg"
+[[params.social]]
+  name = "orcid"
+  url = "https://orcid.org/0000-0001-5067-8475"
+[taxonomies]
+    category = "blog"
+    tag      = "tags"
+    series   = "series"
+
+[languages]
+  [languages.pt]
+    title = "Eric Brasil"
+    subtitle = "historiador e professor\nIHLM/UNILAB"
+    keywords = ""
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    readOtherPosts = "Leia mais"
+
+    [languages.en.params.logo]
+      logoText = "🐍"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+  # And you can even create generic menu
+[menu]
+  [[menu.main]]
+    identifier = "cv"
+    name       = "CV"
+    url        = "cv/"
+    weight     = 1
+  [[menu.main]]
+    identifier = "projetos"
+    name       = "Projetos"
+    url        = "projetos/"
+    weight     = 3
+  [[menu.main]]
+    identifier = "publicacoes"
+    name       = "Publicações"
+    url        = "publicacoes/"
+    weight     = 2
+  [[menu.main]]
+    identifier = "falas"
+    name       = "Falas/Mesas"
+    url        = "falas/"
+    weight     = 4
+  [[menu.main]]
+    identifier = "materiais"
+    name       = "Materiais/Ferramentas"
+    url        = "materiais/"
+    weight     = 5
+  [[menu.main]]
+    identifier = "contato"
+    name       = "Contatos"
+    url        = "contato/"
+    weight     = 7
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "blog/"
+    weight     = 6

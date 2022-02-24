@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projetos on Eric Brasil</title>
+    <link>localhost/projetos/</link>
+    <description>Recent content in Projetos on Eric Brasil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 24 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="localhost/projetos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projetos de pesquisa concluídos</title>
+      <link>localhost/projetos/concluidos/</link>
+      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/projetos/concluidos/</guid>
+      <description>Pós-Abolição: sentidos, usos e produção acadêmica (2004-2019) Descrição: Esse projeto tem como objetivo caracterizar a produção acadêmica sobre o Pós-Abolição no Brasil entre 2004 e 2019. Buscamos analisar as principais temáticas, recortes cronológicos e espaciais, assim como as instituições de ensino e as revistas acadêmicas que têm produzido e publicado pesquisas sobre esse campo de estudos no Brasil desde a publicação do artigo ?O pós-abolição como problema histórico: Balanços e perspectivas?</description>
+    </item>
+    
+    <item>
+      <title>Projetos de pesquisa em andamento</title>
+      <link>localhost/projetos/em-andamento/</link>
+      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/projetos/em-andamento/</guid>
+      <description>História Digital: acervos e ferramentas digitais para pesquisa e ensino Descrição: O projeto &amp;lsquo;História Digital: acervos e ferramentas digitais para pesquisa e ensino&amp;rsquo; pretende promover o debate sobre os impactos teórico-metodológicos para o ofício do historiador e do professor de história gerado pelo avanço irrefreável tanto dos acervos digitais de fontes primárias quanto das ferramentas digitais para pesquisa, escrita e ensino da disciplina. Buscamos elaborar acervos de repositórios de fontes digitais on-line disponíveis para pesquisa e refletir sobre suas implicações para História e seu ensino no Brasil, mais especificamente no curso de licenciatura em História na Unilab, campus dos Malês.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publicacoes on Eric Brasil</title>
+    <link>localhost/publicacoes/</link>
+    <description>Recent content in Publicacoes on Eric Brasil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 24 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="localhost/publicacoes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Artigos em periódicos</title>
+      <link>localhost/publicacoes/artigos/</link>
+      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/publicacoes/artigos/</guid>
+      <description>Veja aqui as principais publicações nos últimos 5 anos.
+ BRASIL, E.; NASCIMENTO, L. F. História digital: reflexões a partir da Hemeroteca Digital Brasileira e do uso de CAQDAS na reelaboração da pesquisa histórica. Revista Estudos Históricos, v. 33, n. 69, p. 196–219, 1 jan. 2020. DOI Cordões e Canboulay Bands: Performances negras no Pós Abolição (Rio de Janeiro e Port-of-Spain). Estudos Ibero-Americanos, v. 46, n. 3, p. e33507, 16 dez.</description>
+    </item>
+    
+    <item>
+      <title>Livros publicados, organizados e capítulos</title>
+      <link>localhost/publicacoes/livros/</link>
+      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/publicacoes/livros/</guid>
+      <description>Veja aqui as principais publicações nos últimos 5 anos.
+ ABREU, M.; BRASIL, E. Toward a History of Carnival. In: Oxford Research Encyclopedia of Latin American History. Oxford University Press, 2020. ABREU, M.; XAVIER, G.; MONTEIRO, L.; BRASIL, E (orgs). Cultura negra: trajetórias e lutas de intelectuais negros. Niterói: EdUFF, 2018. v. 2 ABREU, M.; XAVIER, G.; MONTEIRO, L.; BRASIL, E (orgs). Cultura negra: festas, carnavais e patrimônios negros. Niterói: EdUFF, 2018.</description>
+    </item>
+    
+  </channel>
+</rss>

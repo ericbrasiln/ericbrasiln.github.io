@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/ebn/Documentos/GITHUB/new_site/quickstart",
+	"sourceRoot": "/home/ebn/Documentos/GITHUB/ericbrasiln.github.io",
 	"sources": [
 		"themes/hello-friend-ng/assets/scss/main.scss",
 		"themes/hello-friend-ng/assets/scss/_normalize.scss",

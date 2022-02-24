@@ -1,4 +1,4 @@
-baseurl      = "localhost"
+baseurl      = "https://ericbrasiln>.github.io"
 title        = "Eric Brasil"
 languageCode = "pt-br"
 theme        = "hello-friend-ng"

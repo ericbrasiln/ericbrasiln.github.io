@@ -6,7 +6,7 @@ date: "2020-02-24"
 ---
 ## Sites e apresentações de disciplinas e aulas
 
-- Curso: [CCLHM0060 - Introdução à História Digital - 2021.1](https://ericbrasiln.github.io/intro-historia-digital/)
+- Curso: [CCLHM0069 - Introdução à História Digital - 2021.1](https://ericbrasiln.github.io/intro-historia-digital/)
 
 - Curso: [CCLHM0057 - História da América: colonização e resistência - 2021.1](https://cclhm0057.netlify.app/)
 

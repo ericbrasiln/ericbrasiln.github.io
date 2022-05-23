@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ericbrasiln.github.io/materiais/materiais-oficinas/</loc>
+    <loc>https://ericbrasiln.github.io/publications/books/</loc>
     <lastmod>2022-05-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ericbrasiln.github.io/publicacoes/artigos/</loc>
+    <loc>https://ericbrasiln.github.io/teaching/courses/</loc>
     <lastmod>2022-05-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ericbrasiln.github.io/materiais/aulas/</loc>
-    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ericbrasiln.github.io/contato/</loc>
+    <loc>https://ericbrasiln.github.io/contact/</loc>
     <lastmod>2022-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ericbrasiln.github.io/cv/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ericbrasiln.github.io/teaching/tools/</loc>
     <lastmod>2022-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ericbrasiln.github.io/</loc>
@@ -30,19 +30,25 @@
                 href="https://ericbrasiln.github.io/"
                 />
   </url><url>
-    <loc>https://ericbrasiln.github.io/falas/</loc>
+    <loc>https://ericbrasiln.github.io/publications/articles/</loc>
     <lastmod>2022-05-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ericbrasiln.github.io/publicacoes/livros/</loc>
+    <loc>https://ericbrasiln.github.io/teaching/materials/</loc>
     <lastmod>2022-05-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ericbrasiln.github.io/materiais/</loc>
+    <loc>https://ericbrasiln.github.io/publications/</loc>
     <lastmod>2022-05-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ericbrasiln.github.io/falas/mesas/</loc>
+    <loc>https://ericbrasiln.github.io/talks/lectures/</loc>
     <lastmod>2022-05-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ericbrasiln.github.io/publicacoes/</loc>
+    <loc>https://ericbrasiln.github.io/cv_en/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ericbrasiln.github.io/talks/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ericbrasiln.github.io/teaching/</loc>
     <lastmod>2022-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ericbrasiln.github.io/blog/</loc>
@@ -67,20 +73,17 @@
     <loc>https://ericbrasiln.github.io/tags/teste/</loc>
     <lastmod>2022-02-23T22:44:04-03:00</lastmod>
   </url><url>
-    <loc>https://ericbrasiln.github.io/falas/video-aulas/</loc>
+    <loc>https://ericbrasiln.github.io/projects/completed/</loc>
     <lastmod>2022-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ericbrasiln.github.io/projetos/</loc>
+    <loc>https://ericbrasiln.github.io/projects/</loc>
     <lastmod>2022-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ericbrasiln.github.io/projetos/concluidos/</loc>
+    <loc>https://ericbrasiln.github.io/projects/in-progress/</loc>
     <lastmod>2022-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ericbrasiln.github.io/projetos/em-andamento/</loc>
+    <loc>https://ericbrasiln.github.io/talks/video-lessons/</loc>
     <lastmod>2022-02-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ericbrasiln.github.io/materiais/ferramentas/</loc>
-    <lastmod>2020-02-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ericbrasiln.github.io/blog/</loc>
     <xhtml:link

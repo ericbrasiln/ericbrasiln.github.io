@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Eric Brasil</title>
+    <link>https://ericbrasiln.github.io/projects/</link>
+    <description>Recent content in Projects on Eric Brasil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 24 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ericbrasiln.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Completed research projects / Projetos de pesquisa concluídos</title>
+      <link>https://ericbrasiln.github.io/projects/completed/</link>
+      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ericbrasiln.github.io/projects/completed/</guid>
+      <description>Pós-Abolição: sentidos, usos e produção acadêmica (2004-2019) Descrição: Esse projeto tem como objetivo caracterizar a produção acadêmica sobre o Pós-Abolição no Brasil entre 2004 e 2019. Buscamos analisar as principais temáticas, recortes cronológicos e espaciais, assim como as instituições de ensino e as revistas acadêmicas que têm produzido e publicado pesquisas sobre esse campo de estudos no Brasil desde a publicação do artigo ?O pós-abolição como problema histórico: Balanços e perspectivas?</description>
+    </item>
+    
+    <item>
+      <title>Research projects in progress / Projetos de pesquisa em andamento</title>
+      <link>https://ericbrasiln.github.io/projects/in-progress/</link>
+      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ericbrasiln.github.io/projects/in-progress/</guid>
+      <description>Ecossistema de desinformação e propaganda computacional no aplicativo Telegram Descrição: Este projeto propõe estabelecer uma estrutura de mapeamento e análise multi-método de redes de extrema -direita no Telegram, onde recentemente observou-se um aumento no fluxo de usuários e na criação de grupos e canais. Visando monitorar possíveis atividades de propaganda computacional e operações coordenadas de influência ao longo dos próximos dois anos, o projeto combina análises computacionais baseadas na abordagem da linguística de corpus (LC) e técnicas de processamento de linguagem natural (NLP) com uma abordagem qualitativa mista de análise de discurso e etnografia online.</description>
+    </item>
+    
+  </channel>
+</rss>

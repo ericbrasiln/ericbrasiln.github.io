@@ -1,11 +1,11 @@
 ---
-title: Contatos
-date: "2022-02-24"
+title: Contact / Contatos
+date: "2022-05-23"
 ---
 
 ## E-mails: 
 
-- ericbrasiln@protonmail.com
+- ericbrasiln@proton.me
 - profericbrasil@unilab.edu.br
 
 ## [Linktree](https://linktr.ee/ericbrasil)

@@ -3,9 +3,10 @@ layout: page
 title: Currículo Resumido
 description: >
   Currículo resumido.
-date: "2022-02-24"
+date: "2022-05-23"
 ---
-Professor e coordenador (2019-2020) do curso de licenciatura em História e professor do Bacharelado Interdisciplinar em Humanidades da UNILAB (Universidade da Integração Internacional da Lusofonia Afro-brasileira), campus dos Malês, BA. 
+
+**To access the english version of this page, click [here](/cv_en).**
 
 Autor do livro **A Corte em Festa**: experiências negras em carnavais do Rio de Janeiro (1879-1888) (Editora Prismas, 2016).
 
@@ -25,10 +26,10 @@ Foi professor de ensino fundamental, médio e pré­-vestibular no Rio de Janeir
 
 ## Formação acadêmica/titulação
 
-- Doutorado em História (2012-2016)
+- Doutorado em História (2012-2016) - Universidade Federal Fluminense, com período de bolsa Sanduíche na Universidade de Essex.
     - Título: **Carnavais Atlânticos**: cidadania e cultura negra no pós-abolição. Rio de Janeiro e Port-of-Spain,Trinidad (1838-1920)
 
-- Mestrado em História (2009-2011)
+- Mestrado em História (2009-2011) - Universidade Federal Fluminense.
     - Título: **Carnavais da Abolição**: Diabos e Cucumbis no Rio de Janeiro (1879-1888)
 
 ## Atuação profissional

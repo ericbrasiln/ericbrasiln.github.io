@@ -17,7 +17,7 @@ enableEmoji     = true
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = "historiador e professor - IHLM/UNILAB"
+  homeSubtitle = "historian and professor / historiador e professor (IHLM/UNILAB)"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -26,13 +26,13 @@ enableEmoji     = true
   enableSharingButtons = true
 
   # Metadata mostly used in document's head
-  description = "Site pessoal de Eric Brasil"
-  keywords = "homepage, blog"
-  images = [""]
+  description = "Eric Brasil's website"
+  keywords = "homepage, cv, blog, portfolio"
+  images = ["static/img/favicon.ico"]
   enableThemeToggle = true
   [params.footer]
     trademark = true
-    rss = true
+    rss = false
     copyright = true
     author = true
 
@@ -53,7 +53,7 @@ enableEmoji     = true
   url = "https://twitter.com/ericbrasiln"
 [[params.social]]
   name = "email"
-  url = "mailto:ericbrasiln@protonmail.com"
+  url = "mailto:ericbrasiln@proton.me"
 [[params.social]]
   name = "telegram"
   url = "https://t.me/ericbrasiln"  
@@ -92,29 +92,29 @@ enableEmoji     = true
     url        = "cv/"
     weight     = 1
   [[menu.main]]
-    identifier = "projetos"
-    name       = "Projetos"
-    url        = "projetos/"
+    identifier = "projects"
+    name       = "Projects"
+    url        = "projects/"
     weight     = 3
   [[menu.main]]
-    identifier = "publicacoes"
-    name       = "Publicações"
-    url        = "publicacoes/"
+    identifier = "publications"
+    name       = "Publications"
+    url        = "publications/"
     weight     = 2
   [[menu.main]]
-    identifier = "falas"
-    name       = "Falas"
-    url        = "falas/"
+    identifier = "talks"
+    name       = "Talks"
+    url        = "talks/"
     weight     = 4
   [[menu.main]]
-    identifier = "materiais"
-    name       = "Materiais/Ferramentas"
-    url        = "materiais/"
+    identifier = "teaching"
+    name       = "Teaching"
+    url        = "teaching"
     weight     = 5
   [[menu.main]]
-    identifier = "contato"
-    name       = "Contatos"
-    url        = "contato/"
+    identifier = "contact"
+    name       = "Contacts"
+    url        = "contact/"
     weight     = 7
   [[menu.main]]
     identifier = "blog"

@@ -1,8 +1,8 @@
 ---
-title: Aulas e Cursos
+title: Classes and Courses / Aulas e Cursos
 description: >
   Lista de cursos e aula com materiais disponíveis on-line.
-date: "2020-02-24"
+date: "2022-05-23"
 ---
 ## Sites e apresentações de disciplinas e aulas
 

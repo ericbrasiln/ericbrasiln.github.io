@@ -1,6 +1,6 @@
 ---
-title: Ferramentas Digitais
-date: "2020-02-24"
+title: Digital Tools / Ferramentas Digitais
+date: "2022-05-23"
 ---
 ## **Repositório Digital das Humanidades - REDHBR**
 

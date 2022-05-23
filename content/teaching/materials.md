@@ -1,12 +1,16 @@
 ---
-title: Apresentações, oficinas, minicursos, tutoriais
-date: "2020-02-24"
+title: Presentations, workshops, tutorials / Apresentações, oficinas, minicursos, tutoriais
+date: "2022-05-23"
 ---
-## Material de apresentações e mesas
+## Material de apresentações, mesas e palestras
+
+- [Criação, manutenção e divulgação de projetos de História em meios digitais: git, GitHub e o Programming Historian](https://ericbrasiln.github.io/hdfgv/). Material para o Webinar LHUD - FGV/CPDOC. [DOI](https://zenodo.org/record/6566754)
+  
+- [Hemeroteca Digital Brasileira e a pesquisa histórica: reflexões sobre teoria e prática](https://ericbrasiln.github.io/hdufrn/). Material para o curso e-história da Educação da UFRN. [DOI](https://zenodo.org/record/6568346)
 
 - [Dá pra pesquisar o Caribe do Brasil? Reflexões teórico-metodológicas](https://ericbrasiln.github.io/caribe/). Material para a mesa promovida pelo [Canal da América](https://youtu.be/hMX8ITv40K8) - 2020-11-30, 17h.
   
-- [Eu, robô? por uma #HistóriaDigital crítica no ensino e formação de professores](https://ericbrasiln.github.io/webnargtep/). Material para a mesa "História Pública e ensino de História nas mídias sociais" do [webnário do Gtep](https://youtu.be/y9M2NQszLNc), 09/11/2020.
+- [Eu, robô? por uma #HistóriaDigital crítica no ensino e formação de professores](https://ericbrasiln.github.io/webnargtep/). Material para a mesa "História Pública e ensino de História nas mídias sociais" do [webnário do Gtep](https://youtu.be/y9M2NQszLNc), 09-11-2020.
 
 - [Pós-Abolição: pesquisa e esperanças para a história social do Brasil](https://ericbrasiln.github.io/MESA_UEMG/). Apresentação para a mesa ['Trocando em Miúdos'], UEMG(https://youtu.be/NXuFrYz24IU), 24-09-2020.
 

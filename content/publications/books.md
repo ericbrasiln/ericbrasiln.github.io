@@ -1,11 +1,12 @@
 ---
-title: Livros publicados, organizados e capítulos
+title: Books and chapters / Livros publicados, organizados e capítulos
 description: >
-  Lista das principais publicações dos últimos anos.
-date: "2022-02-24"
+  List of top publications of recent years / Lista das principais publicações dos últimos anos.
+date: "2022-05-23"
 ---
-Veja aqui as principais publicações nos últimos 5 anos.
+## Veja aqui as principais publicações nos últimos anos.
 
+1. BRASIL, Eric; CANELAS, L. . Kalendas, Bamboula e Canboulay: um estudo transnacional sobre Afro-Américas (Martinica e Trinidad, cc. 1780 - 1850). In: Ana Beatriz Ramos de Souza; Hevelly Ferreira Acruche. (Org.). *História das Américas*: apontamentos iniciais de ensino e pesquisas. 1ed.Juiz de Fora: Editora UFJF, 2021, v. , p. 151-170.
 1. ABREU, M.; BRASIL, E. Toward a History of Carnival. In: **Oxford Research Encyclopedia of Latin American History**. Oxford University Press, 2020.
 2. ABREU, M.; XAVIER, G.; MONTEIRO, L.; BRASIL, E (orgs). **Cultura negra**: trajetórias e lutas de intelectuais negros. Niterói: EdUFF, 2018. v. 2
 3. ABREU, M.; XAVIER, G.; MONTEIRO, L.; BRASIL, E (orgs). **Cultura negra**: festas, carnavais e patrimônios negros. Niterói: EdUFF, 2018. v. 1

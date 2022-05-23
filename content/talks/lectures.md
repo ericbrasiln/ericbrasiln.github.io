@@ -1,7 +1,25 @@
 ---
-title: Mesas
-date: "2022-02-24"
+title: Roundtables and Lectures / Mesas e Palestras
+date: "2022-05-23"
 ---
+## 2022
+
+### Criação, manutenção e divulgação de projetos de História em meios digitais: git, GitHub e o Programming Historian.
+
+Webinar LHUD - FGV/CPDOC
+
+[DOI](https://zenodo.org/record/6566754)
+
+{{<youtube aJvjkSBETBw>}}
+
+### Hemeroteca Digital Brasileira e a pesquisa histórica: reflexões sobre teoria e prática.
+
+Curso e-história da Educação da UFRN
+
+[DOI](https://zenodo.org/record/6568346)
+
+{{<youtube Uu3I9_a2knc>}}
+
 ## 2021
 
 ### SESSÃO ESPECIAL – História Digital - 7ª JORNADA DE PESQUISADORES DA FBN

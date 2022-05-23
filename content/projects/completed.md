@@ -1,5 +1,5 @@
 ---
-title: Projetos de pesquisa concluídos
+title: Completed research projects / Projetos de pesquisa concluídos
 date: "2022-02-24"
 ---
 ## Pós-Abolição: sentidos, usos e produção acadêmica (2004-2019)

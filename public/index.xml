@@ -6,50 +6,53 @@
     <description>Recent content on Eric Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Wed, 23 Feb 2022 22:44:04 -0300</lastBuildDate><atom:link href="https://ericbrasiln.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ericbrasiln.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Novo Site</title>
-      <link>https://ericbrasiln.github.io/blog/my-first-post/</link>
-      <pubDate>Wed, 23 Feb 2022 22:44:04 -0300</pubDate>
+      <title>Apresentações, oficinas, minicursos, tutoriais</title>
+      <link>https://ericbrasiln.github.io/materiais/materiais-oficinas/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ericbrasiln.github.io/blog/my-first-post/</guid>
-      <description>Atualização do site pessoal para HUGO com o tema criado por rhazdon.</description>
+      <guid>https://ericbrasiln.github.io/materiais/materiais-oficinas/</guid>
+      <description>Material de apresentações, mesas e palestras   Criação, manutenção e divulgação de projetos de História em meios digitais: git, GitHub e o Programming Historian. Material para o Webinar LHUD - FGV/CPDOC. DOI
+  Hemeroteca Digital Brasileira e a pesquisa histórica: reflexões sobre teoria e prática. Material para o curso e-história da Educação da UFRN. DOI
+  Dá pra pesquisar o Caribe do Brasil? Reflexões teórico-metodológicas. Material para a mesa promovida pelo Canal da América - 2020-11-30, 17h.</description>
     </item>
     
     <item>
       <title>Artigos em periódicos</title>
       <link>https://ericbrasiln.github.io/publicacoes/artigos/</link>
-      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ericbrasiln.github.io/publicacoes/artigos/</guid>
-      <description>Veja aqui as principais publicações nos últimos 5 anos.
- BRASIL, E.; NASCIMENTO, L. F. História digital: reflexões a partir da Hemeroteca Digital Brasileira e do uso de CAQDAS na reelaboração da pesquisa histórica. Revista Estudos Históricos, v. 33, n. 69, p. 196–219, 1 jan. 2020. DOI Cordões e Canboulay Bands: Performances negras no Pós Abolição (Rio de Janeiro e Port-of-Spain). Estudos Ibero-Americanos, v. 46, n. 3, p. e33507, 16 dez.</description>
+      <description>Veja aqui as principais publicações nos últimos anos.  The Caribbean Struggle for Freedom - Freedom Roots: Histories from the Caribbean. By Laurent Dubois and Richard Lee Turits. Chapel Hill: University of North Carolina Press, 2019. Pp. 408. $35.00 cloth; $26.99 e-book.. The Americas, v. 79, p. 141-143, 2022. BRASIL, E.; NASCIMENTO, L. F. História digital: reflexões a partir da Hemeroteca Digital Brasileira e do uso de CAQDAS na reelaboração da pesquisa histórica.</description>
     </item>
     
     <item>
-      <title>Aulas em vídeo</title>
-      <link>https://ericbrasiln.github.io/falas/video-aulas/</link>
-      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      <title>Aulas e Cursos</title>
+      <link>https://ericbrasiln.github.io/materiais/aulas/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ericbrasiln.github.io/falas/video-aulas/</guid>
-      <description>Curso Introdução à História Digital completo: 
-Curso Ferramentas Digitais e a Pesquisa em Humanidades completo. 
-Minicurso Uma introdução ao Markdown e suas possibilidades no ensino e divulgação científica   </description>
+      <guid>https://ericbrasiln.github.io/materiais/aulas/</guid>
+      <description>Sites e apresentações de disciplinas e aulas   Curso: CCLHM0069 - Introdução à História Digital - 2021.1
+  Curso: CCLHM0057 - História da América: colonização e resistência - 2021.1
+  Curso: CCLHM0057 - História da América: colonização e resistência - 2020.1
+  Curso: BHUM0004 - Processos coloniais e a construação da modernidade - 2020.1
+  Curso: Ferramentas Digitais e a pesquisa em Humanidades - Plex (2020)</description>
     </item>
     
     <item>
       <title>Contatos</title>
       <link>https://ericbrasiln.github.io/contato/</link>
-      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ericbrasiln.github.io/contato/</guid>
-      <description>E-mails:  ericbrasiln@protonmail.com profericbrasil@unilab.edu.br  Linktree Lattes - Orcid - ResearchGate - Academia.edu - GitHub - Twitter</description>
+      <description>E-mails:  ericbrasiln@proton.me profericbrasil@unilab.edu.br  Linktree Lattes - Orcid - ResearchGate - Academia.edu - GitHub - Twitter</description>
     </item>
     
     <item>
       <title>Currículo Resumido</title>
       <link>https://ericbrasiln.github.io/cv/</link>
-      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ericbrasiln.github.io/cv/</guid>
       <description>Professor e coordenador (2019-2020) do curso de licenciatura em História e professor do Bacharelado Interdisciplinar em Humanidades da UNILAB (Universidade da Integração Internacional da Lusofonia Afro-brasileira), campus dos Malês, BA.
@@ -61,23 +64,41 @@ Vencedor do primeiro e segundo lugares no Concurso de Monografias Silvio Romero 
     <item>
       <title>Livros publicados, organizados e capítulos</title>
       <link>https://ericbrasiln.github.io/publicacoes/livros/</link>
-      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ericbrasiln.github.io/publicacoes/livros/</guid>
-      <description>Veja aqui as principais publicações nos últimos 5 anos.
- ABREU, M.; BRASIL, E. Toward a History of Carnival. In: Oxford Research Encyclopedia of Latin American History. Oxford University Press, 2020. ABREU, M.; XAVIER, G.; MONTEIRO, L.; BRASIL, E (orgs). Cultura negra: trajetórias e lutas de intelectuais negros. Niterói: EdUFF, 2018. v. 2 ABREU, M.; XAVIER, G.; MONTEIRO, L.; BRASIL, E (orgs). Cultura negra: festas, carnavais e patrimônios negros. Niterói: EdUFF, 2018.</description>
+      <description>Veja aqui as principais publicações nos últimos anos.  BRASIL, Eric; CANELAS, L. . Kalendas, Bamboula e Canboulay: um estudo transnacional sobre Afro-Américas (Martinica e Trinidad, cc. 1780 - 1850). In: Ana Beatriz Ramos de Souza; Hevelly Ferreira Acruche. (Org.). História das Américas: apontamentos iniciais de ensino e pesquisas. 1ed.Juiz de Fora: Editora UFJF, 2021, v. , p. 151-170. ABREU, M.; BRASIL, E. Toward a History of Carnival. In: Oxford Research Encyclopedia of Latin American History.</description>
     </item>
     
     <item>
-      <title>Mesas</title>
+      <title>Mesas e Palestras</title>
       <link>https://ericbrasiln.github.io/falas/mesas/</link>
-      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ericbrasiln.github.io/falas/mesas/</guid>
-      <description>2021 SESSÃO ESPECIAL – História Digital - 7ª JORNADA DE PESQUISADORES DA FBN   Web Scraping e a construção de datasets para a pesquisa histórica na era digital: aspectos técnicos, metodológicos e epistemológicos No simpósio temático - História, Arquivos e Arquivamento na era digital, do IIIEPTH
- Fala a partir de 41 minutos e 14 segundos
- 
-2020 Quem tem medo dos métodos digitais de pesquisa?. Congresso Virtual UFBA 2020.</description>
+      <description>2022 Criação, manutenção e divulgação de projetos de História em meios digitais: git, GitHub e o Programming Historian. Webinar LHUD - FGV/CPDOC
+  Hemeroteca Digital Brasileira e a pesquisa histórica: reflexões sobre teoria e prática. Curso e-história da Educação da UFRN
+  2021 SESSÃO ESPECIAL – História Digital - 7ª JORNADA DE PESQUISADORES DA FBN   Web Scraping e a construção de datasets para a pesquisa histórica na era digital: aspectos técnicos, metodológicos e epistemológicos No simpósio temático - História, Arquivos e Arquivamento na era digital, do IIIEPTH</description>
+    </item>
+    
+    <item>
+      <title>Novo Site</title>
+      <link>https://ericbrasiln.github.io/blog/my-first-post/</link>
+      <pubDate>Wed, 23 Feb 2022 22:44:04 -0300</pubDate>
+      
+      <guid>https://ericbrasiln.github.io/blog/my-first-post/</guid>
+      <description>Atualização do site pessoal para HUGO com o tema criado por rhazdon.</description>
+    </item>
+    
+    <item>
+      <title>Aulas em vídeo</title>
+      <link>https://ericbrasiln.github.io/falas/video-aulas/</link>
+      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ericbrasiln.github.io/falas/video-aulas/</guid>
+      <description>Curso &amp;lsquo;Introdução à História Digital&amp;rsquo; completo: 
+Curso &amp;lsquo;Ferramentas Digitais e a Pesquisa em Humanidades&amp;rsquo; completo. 
+Minicurso &amp;lsquo;Uma introdução ao Markdown e suas possibilidades no ensino e divulgação científica&amp;rsquo;   </description>
     </item>
     
     <item>
@@ -96,30 +117,6 @@ Vencedor do primeiro e segundo lugares no Concurso de Monografias Silvio Romero 
       
       <guid>https://ericbrasiln.github.io/projetos/em-andamento/</guid>
       <description>História Digital: acervos e ferramentas digitais para pesquisa e ensino Descrição: O projeto &amp;lsquo;História Digital: acervos e ferramentas digitais para pesquisa e ensino&amp;rsquo; pretende promover o debate sobre os impactos teórico-metodológicos para o ofício do historiador e do professor de história gerado pelo avanço irrefreável tanto dos acervos digitais de fontes primárias quanto das ferramentas digitais para pesquisa, escrita e ensino da disciplina. Buscamos elaborar acervos de repositórios de fontes digitais on-line disponíveis para pesquisa e refletir sobre suas implicações para História e seu ensino no Brasil, mais especificamente no curso de licenciatura em História na Unilab, campus dos Malês.</description>
-    </item>
-    
-    <item>
-      <title>Apresentações, oficinas, minicursos, tutoriais</title>
-      <link>https://ericbrasiln.github.io/materiais/materiais-oficinas/</link>
-      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ericbrasiln.github.io/materiais/materiais-oficinas/</guid>
-      <description>Material de apresentações e mesas   Dá pra pesquisar o Caribe do Brasil? Reflexões teórico-metodológicas. Material para a mesa promovida pelo Canal da América - 2020-11-30, 17h.
-  Eu, robô? por uma #HistóriaDigital crítica no ensino e formação de professores. Material para a mesa &amp;ldquo;História Pública e ensino de História nas mídias sociais&amp;rdquo; do webnário do Gtep, 09/11/2020.
-  Pós-Abolição: pesquisa e esperanças para a história social do Brasil.</description>
-    </item>
-    
-    <item>
-      <title>Aulas e Cursos</title>
-      <link>https://ericbrasiln.github.io/materiais/aulas/</link>
-      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ericbrasiln.github.io/materiais/aulas/</guid>
-      <description>Sites e apresentações de disciplinas e aulas   Curso: CCLHM0069 - Introdução à História Digital - 2021.1
-  Curso: CCLHM0057 - História da América: colonização e resistência - 2021.1
-  Curso: CCLHM0057 - História da América: colonização e resistência - 2020.1
-  Curso: BHUM0004 - Processos coloniais e a construação da modernidade - 2020.1
-  Curso: Ferramentas Digitais e a pesquisa em Humanidades - Plex (2020)</description>
     </item>
     
     <item>

@@ -5,23 +5,24 @@
     <link>https://ericbrasiln.github.io/teaching/</link>
     <description>Recent content in Teachings on Eric Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-br</language>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Mon, 23 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ericbrasiln.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Classes and Courses / Aulas e Cursos</title>
+      <title>Classes and Courses</title>
       <link>https://ericbrasiln.github.io/teaching/courses/</link>
       <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ericbrasiln.github.io/teaching/courses/</guid>
-      <description>Sites e apresentações de disciplinas e aulas   Curso: CCLHM0069 - Introdução à História Digital - 2021.1
-  Curso: CCLHM0057 - História da América: colonização e resistência - 2021.1
-  Curso: CCLHM0057 - História da América: colonização e resistência - 2020.1
-  Curso: BHUM0004 - Processos coloniais e a construação da modernidade - 2020.1
-  Curso: Ferramentas Digitais e a pesquisa em Humanidades - Plex (2020)</description>
+      <description>Websites and presentations of courses and classes   Course: CCLHM0069 - Introdução à História Digital - 2021.1
+  Course: CCLHM0057 - História da América: colonização e resistência - 2021.1
+  Course: CCLHM0057 - História da América: colonização e resistência - 2020.1
+  Course: BHUM0004 - Processos coloniais e a construação da modernidade - 2020.1
+  Course: Ferramentas Digitais e a pesquisa em Humanidades - Plex (2020)</description>
     </item>
     
     <item>
-      <title>Digital Tools / Ferramentas Digitais</title>
+      <title>Digital Tools</title>
       <link>https://ericbrasiln.github.io/teaching/tools/</link>
       <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
       
@@ -34,12 +35,12 @@ Ferramenta de auxílio metodológico para pesquisa na Hemeroteca Digital Brasile
     </item>
     
     <item>
-      <title>Presentations, workshops, tutorials / Apresentações, oficinas, minicursos, tutoriais</title>
+      <title>Presentations, workshops, tutorials</title>
       <link>https://ericbrasiln.github.io/teaching/materials/</link>
       <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ericbrasiln.github.io/teaching/materials/</guid>
-      <description>Material de apresentações, mesas e palestras   Criação, manutenção e divulgação de projetos de História em meios digitais: git, GitHub e o Programming Historian. Material para o Webinar LHUD - FGV/CPDOC. DOI
+      <description>Material for presentations, round tables and lectures   Criação, manutenção e divulgação de projetos de História em meios digitais: git, GitHub e o Programming Historian. Material para o Webinar LHUD - FGV/CPDOC. DOI
   Hemeroteca Digital Brasileira e a pesquisa histórica: reflexões sobre teoria e prática. Material para o curso e-história da Educação da UFRN. DOI
   Dá pra pesquisar o Caribe do Brasil? Reflexões teórico-metodológicas. Material para a mesa promovida pelo Canal da América - 2020-11-30, 17h.</description>
     </item>

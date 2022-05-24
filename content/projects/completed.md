@@ -1,15 +1,15 @@
 ---
-title: Completed research projects / Projetos de pesquisa concluídos
+title: Completed research projects
 date: "2022-02-24"
 ---
-## Pós-Abolição: sentidos, usos e produção acadêmica (2004-2019)
+## Post-Abolition: meanings, uses and academic publications (2004-2019)
 
 **Descrição**: Esse projeto tem como objetivo caracterizar a produção acadêmica sobre o Pós-Abolição no Brasil entre 2004 e 2019. Buscamos analisar as principais temáticas, recortes cronológicos e espaciais, assim como as instituições de ensino e as revistas acadêmicas que têm produzido e publicado pesquisas sobre esse campo de estudos no Brasil desde a publicação do artigo ?O pós-abolição como problema histórico: Balanços e perspectivas? de Ana Rios e Hebe Mattos em 2004 até a Anpuh Nacional de 2019, onde o GT Emancipações e Pós-Abolição contou com o maior número de inscritos, somando os quatro simpósios temáticos vinculados a ele. Esses objetivos serão alcançados através da utilização de ferramentas digitais de pesquisa, análise e visualização de dados, produzindo reflexões historiográficos, mas também contribuindo na produção de ferramentas, scripts, dados e gráficos digitais de suporte teórico e metodológico para a pesquisa em História. Primeiramente, através de scripts escritos com a linguagem de programação R ou Python3 realizaremos a raspagem (web scraping) de duas bases de dados: 1) artigos acadêmicos de revistas de História disponibilizadas na plataforma Scielo; 2) Anais da Anpuh entre 2009 e 2019. Os dados coletados serão codificados e organizados com o Atlas.ti 8, um software de apoio à análise de dados qualitativos (computer assisted qualitative data analysis software ? CAQDAS). Após a codificação, todos os artigos e papers que utilizarem o termo Pós-Abolição serão analisados e um questionário qualitativo (com o app Sphinx) será preenchido, alimentando um banco de dados. Produziremos, por conseguinte, uma avaliação historiográfica da última década sobre os usos, sentidos e amplitude do termo Pós-Abolição nas produções acadêmicas, sua presença e impacto na associação nacional de História, além de gerarmos uma biblioteca de referências, um banco de dados e um conjunto de gráficos dinâmicos para visualização, destacando as relações políticas e sociais de seus uso.
 
 Situação: Concluído; Natureza: Pesquisa.
 Alunos envolvidos: Graduação: uma bolsista Pibic/Unilab.
 
-## Performances negras em carnavais de São Francisco do Conde, BA, no Pós-Abolição.
+## Black Performances in São Francisco do Conde1s Carnival, BA, in Post-Abolition.
 
 **Descrição**: Pretende-se analisar as experiências negras de mobilização social e combate ao racismo através de práticas, manifestações, instituições e associações culturais carnavalescas na cidade de São Francisco do Conde, Bahia no Pós-Abolição. Tal perspectiva busca investigar os sentidos, estratégias e dimensões de experiências afro-americanas, formadas a partir da vivência da diáspora, das múltiplas formas de racismo e racialização e da construção de identidades frente a esses contextos. 
 

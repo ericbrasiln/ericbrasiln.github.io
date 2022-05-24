@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks on Eric Brasil</title>
+    <link>https://ericbrasiln.github.io/pt-br/talks/</link>
+    <description>Recent content in Talks on Eric Brasil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 23 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ericbrasiln.github.io/pt-br/talks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mesas e Palestras</title>
+      <link>https://ericbrasiln.github.io/pt-br/talks/lectures/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ericbrasiln.github.io/pt-br/talks/lectures/</guid>
+      <description>2022 Criação, manutenção e divulgação de projetos de História em meios digitais: git, GitHub e o Programming Historian. Webinar LHUD - FGV/CPDOC
+DOI
+  Hemeroteca Digital Brasileira e a pesquisa histórica: reflexões sobre teoria e prática. Curso e-história da Educação da UFRN
+DOI
+  2021 SESSÃO ESPECIAL – História Digital - 7ª JORNADA DE PESQUISADORES DA FBN   Web Scraping e a construção de datasets para a pesquisa histórica na era digital: aspectos técnicos, metodológicos e epistemológicos No simpósio temático - História, Arquivos e Arquivamento na era digital, do IIIEPTH</description>
+    </item>
+    
+    <item>
+      <title>Aulas em vídeo</title>
+      <link>https://ericbrasiln.github.io/pt-br/talks/video-lessons/</link>
+      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ericbrasiln.github.io/pt-br/talks/video-lessons/</guid>
+      <description>Curso &amp;lsquo;Introdução à História Digital&amp;rsquo; completo: 
+Curso &amp;lsquo;Ferramentas Digitais e a Pesquisa em Humanidades&amp;rsquo; completo. 
+Minicurso &amp;lsquo;Uma introdução ao Markdown e suas possibilidades no ensino e divulgação científica&amp;rsquo;   </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,11 +1,11 @@
 ---
-title: Journal articles / Artigos em periódicos
+title: Journal articles
 description: >
-  List of top publications of recent years / Lista das principais publicações dos últimos anos.
+  List of top publications of recent years
 date: "2022-05-23"
 ---
 
-## Veja aqui as principais publicações nos últimos anos.
+## List of top publications of recent years
 
 1. The Caribbean Struggle for Freedom - Freedom Roots: Histories from the Caribbean. By Laurent Dubois and Richard Lee Turits. Chapel Hill: University of North Carolina Press, 2019. Pp. 408. $35.00 cloth; $26.99 e-book.. *The Americas*, v. 79, p. 141-143, 2022.
 2. BRASIL, E.; NASCIMENTO, L. F. História digital: reflexões a partir da Hemeroteca Digital Brasileira e do uso de CAQDAS na reelaboração da pesquisa histórica. *Revista Estudos Históricos*, v. 33, n. 69, p. 196–219, 1 jan. 2020. [DOI](http://dx.doi.org/10.1590/S2178-14942020000100011)
@@ -17,6 +17,6 @@ date: "2022-05-23"
 8. “Muitos caminhos até chegar ao samba”. *Tempo*, v. 23, n. 2, p. 414–420, maio 2017. [DOI](10.1590/tem-1980-542x2017v230213) 
 9. Carnaval como direito: A Revolta Canboulay de 1881, em Porto de Espanha, Trinidad. *Revista Eletrônica da ANPHLAC*, v. 0, n. 0, p. 48–77, 27 jun. 2016. [Link](https://revista.anphlac.org.br/anphlac/article/view/2477) 
 
-## Artigos aceitos para publicação
+## Articles accepted for publication
 
 1. pyHDB - Ferramenta Heurística para a Hemeroteca Digital Brasileira: utilizando técnicas de web scraping para a pesquisa em História. *História da Historiografia*, 2022.

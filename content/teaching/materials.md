@@ -1,8 +1,8 @@
 ---
-title: Presentations, workshops, tutorials / Apresentações, oficinas, minicursos, tutoriais
+title: Presentations, workshops, tutorials
 date: "2022-05-23"
 ---
-## Material de apresentações, mesas e palestras
+## Material for presentations, round tables and lectures
 
 - [Criação, manutenção e divulgação de projetos de História em meios digitais: git, GitHub e o Programming Historian](https://ericbrasiln.github.io/hdfgv/). Material para o Webinar LHUD - FGV/CPDOC. [DOI](https://zenodo.org/record/6566754)
   
@@ -16,17 +16,17 @@ date: "2022-05-23"
 
 - [Carnaval, Política e Liberdade: Experiências Negras e a Abolição da Escravidão no Rio de Janeiro (1879-1888)](https://ericbrasiln.github.io/Aula_Eric-Brasil_Construtores-da-liberdade/MESA_UEMG/). Material e apresentação da aula no curso Construtores da Liberdade: comunidades, lutas e identidades negras no Brasil do século XIX, 19-08-2020.
 
-## Minicursos
+## Short courses
 
 - [Levantamento Bibliográfico e gerenciamento de referências em meio digital](https://ericbrasiln.github.io/curso_biblio/) 
 
-## Oficinas
+## Workshops
 
 - [Historiadores Rodando Python!?](https://ericbrasiln.github.io/oficina-python/). Oficina no âmbito do Laboratório de Humanidades Digitais da UFBA. O vídeo pode ser [acessado aqui](https://youtu.be/-6IGMyw7c6E).
 
 - [Workshop de Zotero](https://youtu.be/I5ohkh5d51Y) 
 
-## Tutoriais
+## Tutorials
 
 - [Zotero do Zero - Tutorial de instalação do Zotero no Windows 10](https://youtu.be/CPdhyKboKC0) 
 

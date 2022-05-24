@@ -1,7 +1,6 @@
 baseurl      = "https://ericbrasiln.github.io"
-title        = "Eric Brasil"
-languageCode = "pt-br"
 theme        = "hello-friend-ng"
+languageCode = "en-us"
 paginate     = 10
 
 enableEmoji     = true
@@ -15,9 +14,8 @@ enableEmoji     = true
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
-
-  # Subtitle for home
-  homeSubtitle = "historian and professor / historiador e professor (IHLM/UNILAB)"
+  enableGlobalLanguageMenu = true
+  enableLanguagesMenu = true
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -68,56 +66,92 @@ enableEmoji     = true
     tag      = "tags"
     series   = "series"
 
-[languages]
-  [languages.pt]
-    title = "Eric Brasil"
-    subtitle = "historiador e professor\nIHLM/UNILAB"
-    keywords = ""
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-    readOtherPosts = "Leia mais"
+defaultContentLanguage = 'en'
 
+[languages]
+  [languages.en]
+    languageName = 'English'
+    title = "Eric Brasil"
+    homeSubtitle = "historian and professor (IHLM/UNILAB)"
+    keywords = "homepage, cv, blog, portfolio"
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    readOtherPosts = "More"
+    weight = 1
     [languages.en.params.logo]
       logoText = "home"
       logoHomeLink = "/"
-    # or
-    #
-    # path = "/img/your-example-logo.svg"
-    # alt = "Your example logo alt text"
-
-  # And you can even create generic menu
-[menu]
-  [[menu.main]]
-    identifier = "cv"
+    [languages.en.menu]
+[[languages.en.menu.main]]
     name       = "CV"
     url        = "cv/"
     weight     = 1
-  [[menu.main]]
-    identifier = "projects"
+[[languages.en.menu.main]]
     name       = "Projects"
     url        = "projects/"
     weight     = 3
-  [[menu.main]]
-    identifier = "publications"
+[[languages.en.menu.main]]
     name       = "Publications"
     url        = "publications/"
     weight     = 2
-  [[menu.main]]
-    identifier = "talks"
+[[languages.en.menu.main]]
     name       = "Talks"
     url        = "talks/"
     weight     = 4
-  [[menu.main]]
-    identifier = "teaching"
+[[languages.en.menu.main]]
     name       = "Teaching"
     url        = "teaching"
     weight     = 5
-  [[menu.main]]
-    identifier = "contact"
-    name       = "Contacts"
+[[languages.en.menu.main]]
+    name       = "Contact"
     url        = "contact/"
     weight     = 7
-  [[menu.main]]
-    identifier = "blog"
+[[languages.en.menu.main]]
+    name       = "Blog"
+    url        = "blog/"
+    weight     = 6
+  
+  [languages.pt-br]
+    languageName = 'Portuguese'
+    title = "Eric Brasil"
+    homeSubtitle = "historiador e professor (IHLM/UNILAB)"
+    keywords = "homepage, cv, blog, portfolio"
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    readOtherPosts = "Leia mais"
+    weight = 2
+    [languages.pt-br.params.logo]
+      logoText = "home"
+      logoHomeLink = "/"
+    [languages.pt-br.menu]
+[[languages.pt-br.menu.main]]
+    name       = "CV"
+    url        = "cv/"
+    weight     = 1
+[[languages.pt-br.menu.main]]
+    identifier = "Projetos"
+    name       = "Projetos"
+    url        = "projects/"
+    weight     = 3
+[[languages.pt-br.menu.main]]
+    identifier = "Publicações"
+    name       = "Publicações"
+    url        = "publications/"
+    weight     = 2
+[[languages.pt-br.menu.main]]
+    identifier = "Falas"
+    name       = "Falas"
+    url        = "talks/"
+    weight     = 4
+[[languages.pt-br.menu.main]]
+    identifier = "Ensino"
+    name       = "Ensino"
+    url        = "teaching"
+    weight     = 5
+[[languages.pt-br.menu.main]]
+    identifier = "Contatos"
+    name       = "Contatos"
+    url        = "contact/"
+    weight     = 7
+[[languages.pt-br.menu.main]]
     name       = "Blog"
     url        = "blog/"
     weight     = 6

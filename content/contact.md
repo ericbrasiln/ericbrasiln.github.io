@@ -1,5 +1,5 @@
 ---
-title: Contact / Contatos
+title: Contact
 date: "2022-05-23"
 ---
 

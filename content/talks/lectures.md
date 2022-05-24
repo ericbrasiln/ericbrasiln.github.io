@@ -1,5 +1,5 @@
 ---
-title: Roundtables and Lectures / Mesas e Palestras
+title: Roundtables and Lectures
 date: "2022-05-23"
 ---
 ## 2022

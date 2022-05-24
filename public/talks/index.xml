@@ -5,10 +5,11 @@
     <link>https://ericbrasiln.github.io/talks/</link>
     <description>Recent content in Talks on Eric Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-br</language>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Mon, 23 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ericbrasiln.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Roundtables and Lectures / Mesas e Palestras</title>
+      <title>Roundtables and Lectures</title>
       <link>https://ericbrasiln.github.io/talks/lectures/</link>
       <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
       
@@ -21,14 +22,14 @@ DOI
     </item>
     
     <item>
-      <title>Video Lessons / Aulas em vídeo</title>
+      <title>Video Lessons</title>
       <link>https://ericbrasiln.github.io/talks/video-lessons/</link>
       <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ericbrasiln.github.io/talks/video-lessons/</guid>
-      <description>Curso &amp;lsquo;Introdução à História Digital&amp;rsquo; completo: 
-Curso &amp;lsquo;Ferramentas Digitais e a Pesquisa em Humanidades&amp;rsquo; completo. 
-Minicurso &amp;lsquo;Uma introdução ao Markdown e suas possibilidades no ensino e divulgação científica&amp;rsquo;   </description>
+      <description>Full Course &amp;lsquo;Intro to Digital History&amp;rsquo;: 
+Full Course &amp;lsquo;Digital Tools and Research in Humanities. 
+Workshop &amp;lsquo;An introduction to Markdown and its possibilities for teaching and scientific divulgation&amp;rsquo;   </description>
     </item>
     
   </channel>

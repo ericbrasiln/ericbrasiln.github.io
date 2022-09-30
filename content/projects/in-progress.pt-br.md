@@ -3,6 +3,10 @@ title: Projetos de pesquisa em andamento
 date: "2022-02-24"
 
 ---
+## Manutenção, criação e publicação de projetos de história digital: o caso do Programming Historian.
+
+**Descrição**: Este projeto visa analisar as diretrizes, estrutura e fluxo de trabalho do Programming Historian, tanto no site quanto nos repositórios GitHub da organização. Como resultado, serão produzidos relatórios sobre o estado atual da arquitetura técnica do *PH* e sua documentação, bem como um conjunto de recomendações para correção de erros e algumas melhorias, principalmente na versão em português, e uma lição original. A investigação é desenvolvida no âmbito do Laboratório de Humanidades Digitais do Instituto de História Contemporânea da Universidade Nova de Lisboa (IHC, NOVA/FCSH), sob a orientação de Daniel Alves.
+
 ## Ecossistema de desinformação e propaganda computacional no aplicativo Telegram
 
 **Descrição**: Este projeto propõe estabelecer uma estrutura de mapeamento e análise multi-método de redes de extrema -direita no Telegram, onde recentemente observou-se um aumento no fluxo de usuários e na criação de grupos e canais. Visando monitorar possíveis atividades de propaganda computacional e operações coordenadas de influência ao longo dos próximos dois anos, o projeto combina análises computacionais baseadas na abordagem da linguística de corpus (LC) e técnicas de processamento de linguagem natural (NLP) com uma abordagem qualitativa mista de análise de discurso e etnografia online. Além de buscar a existência de instrumentos de automação para potencializar a distribuição de conteúdo no Telegram, o presente projeto inclui uma etapa complementar de análise qualitativa dos padrões semiótico-discursivos dos conteúdos circulados.

@@ -9,6 +9,8 @@ Professor do curso de História e do Bacharelado Interdisciplinar em Humanidades
 
 Coordenador do curso de História da mesma universidade nos anos de 2019 e 2020.
 
+Investigador Visitante no Laboratório de Humanidades Digitais, IHC, FSCH-NOVA, Lisbon, Portugal.
+
 Autor do livro **A Corte em Festa**: experiências negras em carnavais do Rio de Janeiro (1879-1888) (Editora Prismas, 2016).
 
 Doutor (2016) e Mestre (2011) pelo Programa de Pós­-Graduação em História Social da Universidade Federal Fluminense.
@@ -45,6 +47,10 @@ Foi professor de ensino fundamental, médio e pré­-vestibular no Rio de Janeir
     - Título: **Carnavais da Abolição**: Diabos e Cucumbis no Rio de Janeiro (1879-1888)
 
 ## Atuação profissional
+
+### 2022 - today: **Universidade NOVA de Lisboa**
+
+Investigador Visitante no Laboratório de Humanidades Digitais, IHC, FSCH-NOVA, Lisbon, Portugal.
 
 ### 2017 - atual: **Universidade da Integração Internacional da Lusofonia Afro-brasileira (UNILAB)**
 

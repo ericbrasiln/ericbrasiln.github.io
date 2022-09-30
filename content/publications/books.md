@@ -6,6 +6,7 @@ date: "2022-05-23"
 ---
 ## List of top publications of recent years.
 
+1. BRASIL, Eric; NASCIMENTO, Leonardo. Por uma História Social Digital: o uso do CAQDAS na pesquisa e escrita da Históra. In: BARROS, José D’Assunção (Org.). *História digital*: A historiografia diante dos recursos e demandas de um novo tempo. Petrópolis, RJ: Editora Vozes, 2022, p. 228–252.
 1. BRASIL, Eric; CANELAS, L. . Kalendas, Bamboula e Canboulay: um estudo transnacional sobre Afro-Américas (Martinica e Trinidad, cc. 1780 - 1850). In: Ana Beatriz Ramos de Souza; Hevelly Ferreira Acruche. (Org.). *História das Américas*: apontamentos iniciais de ensino e pesquisas. 1ed.Juiz de Fora: Editora UFJF, 2021, v. , p. 151-170.
 1. ABREU, M.; BRASIL, E. Toward a History of Carnival. In: **Oxford Research Encyclopedia of Latin American History**. Oxford University Press, 2020.
 2. ABREU, M.; XAVIER, G.; MONTEIRO, L.; BRASIL, E (orgs). **Cultura negra**: trajetórias e lutas de intelectuais negros. Niterói: EdUFF, 2018. v. 2

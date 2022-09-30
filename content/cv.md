@@ -10,6 +10,8 @@ Professor of the undergraduate courses in History and Humanities at the Institut
 
 Coordinator of the undergraduate course in History at the same institute from 2019 to 2020.
 
+Visiting Researcher at the Digital Humanities Lab, IHC, FSCH-NOVA, Lisbon, Portugal.
+
 Author of the book **A Corte em Festa**: experiências negras em carnavais do Rio de Janeiro (1879-1888) (Editora Prismas, 2016).
 
 Phd (2016) and Master (2011) in History at Universidade Federal Fluminense.
@@ -46,6 +48,10 @@ Elementary and high school teacher in Rio de Janeiro, Brazil, between 2007 and 2
     - Title: **Carnavais da Abolição**: Diabos e Cucumbis no Rio de Janeiro (1879-1888)
 
 ## Professional experience
+
+### 2022 - today: **NOVA University Lisbon**
+
+Visiting Researcher at the Digital Humanities Lab, IHC, FSCH-NOVA, Lisbon, Portugal.
 
 ### 2017 - today: **Universidade da Integração Internacional da Lusofonia Afro-brasileira (UNILAB)**
 

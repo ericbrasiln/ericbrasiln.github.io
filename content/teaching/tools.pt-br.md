@@ -1,6 +1,6 @@
 ---
 title: Ferramentas Digitais
-date: "2022-05-23"
+date: "2022-09-30"
 ---
 ## **Repositório Digital das Humanidades - REDHBR**
 
@@ -16,25 +16,25 @@ Os scripts, as bases de dados e todos os documentos estão disponíveis e poder�
 
 {{< image src="/img/pyhdb.png" alt="logo pyhdb" position="left" style="border-radius: 8px;height:150px;" >}}
 
-[**Acesse aqui a ferramenta**](https://github.com/ericbrasiln/pyHDB)
+[**Acesse aqui a ferramenta**](https://ericbrasiln.github.io/pyHDB/)
 
 Ferramenta de auxílio metodológico para pesquisa na Hemeroteca Digital Brasileira da Biblioteca Nacional.
 
 Desenvolvida por Eric Brasil como parte de pesquisa acadêmica da área de História Digital.
 
-Tem como objetivo auxilixar pesquisadores e pesquisadoras no processo de documentação e registro preciso das etapas de pesquisa e garantir o rigor metodológico. Portanto, é uma ferramenta heurística digital.
+Tem como objetivo auxiliar pesquisadores e pesquisadoras no processo de documentação e registro preciso das etapas de pesquisa e garantir o rigor metodológico. Portanto, é uma ferramenta heurística digital.
 
 Seu desenvolvimento está no âmbito das pesquisas realizadas no curso de História do IHLM/Unilab e do LABHDUFBA.
 
 ### Citação
 
-Brasil, E. (2021). pyHDB: Ferramenta heurística para a Hemeroteca Digital Brasileira (Version 1.0.1) [Computer software]. https://doi.org/https://doi.org/10.5281/zenodo.5696670
+Brasil, E. (2021). pyHDB: Ferramenta heurística para a Hemeroteca Digital Brasileira (Version 1.5) [Computer software]. https://doi.org/https://doi.org/10.5281/zenodo.5696670
 
 ## ferramentas_scielo_v2
 
-[**Acesse aqui a ferramenta**](https://github.com/ericbrasiln/ferramentas_scielo_v2)
+[**Acesse aqui a ferramenta**](https://labhdufba.github.io/ferramentas_scielo_v2/)
 
-Ferramenta de coleta desenvolvida pelos membros do LABHDUFBA e tem como objetivo a raspagem, organização e análise de artigos ciêntíficos publicados na plataforma Scielo.br.
+Ferramenta de coleta desenvolvida pelos membros do LABHDUFBA e tem como objetivo a raspagem, organização e análise de artigos científicos publicados na plataforma Scielo.br.
 
 Nessa versão do programa, reconstruímos o código para lidar com a nova versão do repositório Scielo.br.
 
@@ -44,7 +44,7 @@ Ainda é possível optar realizar a raspagem por área do conhecimento ou por re
 
 ### Citação
 
-Brasil, E., Nascimento, L., & Andrade, G. (2021). Ferramentas Scielo v2 (Version 1.0.1) [Computer software]. https://doi.org/10.5281/zenodo.5168727
+Brasil, E., Nascimento, L., Andrade, G., & Barbosa, J. (2022). Ferramentas Scielo v2 (Version 2.2) [Computer software]. https://doi.org/10.5281/zenodo.5168727
 
 ## Anais Anpuh - Papers
 

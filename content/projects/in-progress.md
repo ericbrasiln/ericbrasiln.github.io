@@ -3,6 +3,10 @@ title: Research projects in progress
 date: "2022-02-24"
 
 ---
+## Maintaining, creating and publishing digital history projects: the case of Programming Historian.
+
+**Summary**: This project aims to analyze the Programming Historian guidelines, structure, and workflow, both on the website and in the organization's GitHub repositories. As a result, will be produced reports about the current state of the technical architecture of the *PH* and its documentation, as well as a set of recommendations for the correction of errors and some improvements, mainly in portuguese version, and a original lesson in portuguese. The research is carried out within the scope of the Laboratory of Digital Humanities of the Institute of Contemporary History of Universidade Nova de Lisboa (IHC, NOVA/FCSH), under the supervision of Daniel Alves.
+
 ## Disinformation ecosystem and computational propaganda in the Telegram app
 
 **Descrição**: Este projeto propõe estabelecer uma estrutura de mapeamento e análise multi-método de redes de extrema -direita no Telegram, onde recentemente observou-se um aumento no fluxo de usuários e na criação de grupos e canais. Visando monitorar possíveis atividades de propaganda computacional e operações coordenadas de influência ao longo dos próximos dois anos, o projeto combina análises computacionais baseadas na abordagem da linguística de corpus (LC) e técnicas de processamento de linguagem natural (NLP) com uma abordagem qualitativa mista de análise de discurso e etnografia online. Além de buscar a existência de instrumentos de automação para potencializar a distribuição de conteúdo no Telegram, o presente projeto inclui uma etapa complementar de análise qualitativa dos padrões semiótico-discursivos dos conteúdos circulados.

@@ -1,75 +1,75 @@
 ---
 title: Digital Tools
-date: "2022-05-23"
+date: "2022-09-30"
 ---
-## **Repositório Digital das Humanidades - REDHBR**
+## **Brazilian Humanities Digital Repository - REDHBR**
 
 {{< image src="/img/redhbr.jpg" alt="logo redhbr" position="left" style="border-radius: 8px;height:180px;" >}}
 
-[**Acesse aqui a página do REDHBR!**](https://labhdufba.github.io/redhbr/)
+[**Access the page here!**](https://labhdufba.github.io/redhbr/)
 
-O **REDHBR** agrega códigos para coleta automatizada de dados referentes à produção intelectual dos principais congressos e eventos das áreas das humanidades no Brasil. 
+**REDHBR** aggregates codes for automated data collection regarding the main events and associations in the humanities area in Brazil.
 
-Os scripts, as bases de dados e todos os documentos estão disponíveis e poderão ser baixados com apenas um clique.
+Scripts, databases and all documents are available and can be downloaded with just one click.
 
-## pyHDB - Ferramenta heurística para a Hemeroteca Digital Brasileira 
+## pyHDB - Heuristic tool for the Brazilian Digital Newspaper Library 
 
 {{< image src="/img/pyhdb.png" alt="logo pyhdb" position="left" style="border-radius: 8px;height:150px;" >}}
 
-[**Acesse aqui a ferramenta**](https://github.com/ericbrasiln/pyHDB)
+[**Access the tool here**](https://ericbrasiln.github.io/pyHDB/)
 
-Ferramenta de auxílio metodológico para pesquisa na Hemeroteca Digital Brasileira da Biblioteca Nacional.
+Methodological aid tool for research in the Brazilian Digital Newspaper Library of the National Library.
 
-Desenvolvida por Eric Brasil como parte de pesquisa acadêmica da área de História Digital.
+Developed by Eric Brasil as part of academic research in the area of Digital History.
 
-Tem como objetivo auxilixar pesquisadores e pesquisadoras no processo de documentação e registro preciso das etapas de pesquisa e garantir o rigor metodológico. Portanto, é uma ferramenta heurística digital.
+Its objective is to assist researchers in the process of documentation and accurate recording of research steps and to ensure methodological accuracy. Therefore, it is a digital heuristic tool.
 
-Seu desenvolvimento está no âmbito das pesquisas realizadas no curso de História do IHLM/Unilab e do LABHDUFBA.
+Its development is within the scope of research carried out in the History course of IHLM/Unilab and LABHDUFBA.
 
-### Citação
+### Citation
 
-Brasil, E. (2021). pyHDB: Ferramenta heurística para a Hemeroteca Digital Brasileira (Version 1.0.1) [Computer software]. https://doi.org/https://doi.org/10.5281/zenodo.5696670
+Brasil, E. (2021). pyHDB: Ferramenta heurística para a Hemeroteca Digital Brasileira (Version 1.5) [Computer software]. https://doi.org/https://doi.org/10.5281/zenodo.5696670
 
 ## ferramentas_scielo_v2
 
-[**Acesse aqui a ferramenta**](https://github.com/ericbrasiln/ferramentas_scielo_v2)
+[**Access the tool here**](https://labhdufba.github.io/ferramentas_scielo_v2/)
 
-Ferramenta de coleta desenvolvida pelos membros do LABHDUFBA e tem como objetivo a raspagem, organização e análise de artigos ciêntíficos publicados na plataforma Scielo.br.
+Collection tool developed by members of LABHDUFBA and aimed at scraping, organizing and analyzing scientific articles published on the Scielo.br platform.
 
-Nessa versão do programa, reconstruímos o código para lidar com a nova versão do repositório Scielo.br.
+In this version of the program, we rebuilt the code to deal with the new version of the Scielo.br repository.
 
-Agora, utilizamos o Selenium para acessar e raspar os dados do repositório.
+Now, we use Selenium to access and scrape the data from the repository.
 
-Ainda é possível optar realizar a raspagem por área do conhecimento ou por revista (ou uma lista de revistas). Nessa última opção é preciso fornecer a abreviação do nome da revista conforme o site do Scielo.br.
+It is still possible to choose to perform the scraping by area of knowledge or by journal (or a list of journals). In this last option, it is necessary to provide the abbreviation of the journal's name according to the Scielo.br website.
 
-### Citação
+### Citation    
 
-Brasil, E., Nascimento, L., & Andrade, G. (2021). Ferramentas Scielo v2 (Version 1.0.1) [Computer software]. https://doi.org/10.5281/zenodo.5168727
+Brasil, E., Nascimento, L., Andrade, G., & Barbosa, J. (2022). Ferramentas Scielo v2 (Version 2.2) [Computer software]. https://doi.org/10.5281/zenodo.5168727
 
 ## Anais Anpuh - Papers
 
-[**Acesse aqui a ferramenta**](https://github.com/ericbrasiln/Anais-Anpuh)
+[**Access the tool here**](https://github.com/ericbrasiln/Anais-Anpuh)
 
-Projeto de script para web scraping da página de Anais da Associação Nacional de História - Anpuh. Parte de projeto de História Digital desenvolvido no colegiado do curso de Licenciatura em História (CCLHM) da Unilab, campus dos Malês, sob coordenação do professor Eric Brasil em parceria com o Laboratório de Humanidades Digitais da Ufba.
+Script project for web scraping of the page of Anais da Associação Nacional de História - Anpuh. Part of the Digital History project developed in the undergraduate course in History at Unilab, Malês campus, under the coordination of Professor Eric Brasil in partnership with the Ufba Digital Humanities Laboratory.
 
-O Script Anais-Anpuh realiza a raspagem dos papers em pdf de todos os Simpósios Nacionais da Anpuh entre 1963 até 2017 (disponíveis atualmente na site).
+The Anais-Anpuh Script scrapes the papers from all Anpuh National Symposia from 1963 to 2017 (currently available on the website).
 
 ## CLI Resumos Anpuh (2013-2021)
 
-[**Acesse aqui a ferramenta**](https://github.com/ericbrasiln/resumos-anpuh-cli)
+[**Access the tool here**](https://github.com/ericbrasiln/resumos-anpuh-cli)
 
-Interface de linha de comando para raspar resumos dos Simpósio Nacionais de História da Anpuh entre 2013 e 2021 
+Command line interface to scrape abstracts from Anpuh National History Symposia between 2013 and 2021
 
-### Citação
+### Citation
 
 Brasil, E. (2021). Resumos-anpuh CLI (Version 1.0) [Computer software]. https://doi.org/10.5281/zenodo.5252128
 
-## Banco de Dados Sociedades Carnavalescas (RJ, 1900-1914)
+##  Carnival Societies Database (RJ, 1900-1914)
 
-[**Acesse aqui a ferramenta**](https://ericbrasiln.github.io/Sociedades-Carnavalescas-RJ/)
+[**Access the tool here**](https://ericbrasiln.github.io/Sociedades-Carnavalescas-RJ/)
 
-Banco de dados produzido a partir da documentação do GIFI-AN: pedidos de licenças de sociedades carnavalescas entre 1900 e 1914.
+Database produced from GIFI-AN documentation: license applications from carnival societies between 1900 and 1914.
 
-### Citação
+### Citation
 
 BRASIL, Eric. Banco de dados de Sociedades Carnavalescas do Rio de Janeiro, 1900-1914 - GIFI/AN. 2016. Disponível em https://ericbrasiln.github.io/Sociedades-Carnavalescas-RJ/. DOI: http://dx.doi.org/10.13140/RG.2.2.31670.83521/1 Acesso em 07 de jun. 2021.

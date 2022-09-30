@@ -7,7 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Mon, 23 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ericbrasiln.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ericbrasiln.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Digital Tools</title>
+      <link>https://ericbrasiln.github.io/teaching/tools/</link>
+      <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ericbrasiln.github.io/teaching/tools/</guid>
+      <description>Brazilian Humanities Digital Repository - REDHBR Access the page here!
+REDHBR aggregates codes for automated data collection regarding the main events and associations in the humanities area in Brazil.
+Scripts, databases and all documents are available and can be downloaded with just one click.
+pyHDB - Heuristic tool for the Brazilian Digital Newspaper Library Access the tool here
+Methodological aid tool for research in the Brazilian Digital Newspaper Library of the National Library.</description>
+    </item>
+    
     <item>
       <title>Classes and Courses</title>
       <link>https://ericbrasiln.github.io/teaching/courses/</link>
@@ -19,19 +32,6 @@
   Course: CCLHM0057 - História da América: colonização e resistência - 2020.1
   Course: BHUM0004 - Processos coloniais e a construação da modernidade - 2020.1
   Course: Ferramentas Digitais e a pesquisa em Humanidades - Plex (2020)</description>
-    </item>
-    
-    <item>
-      <title>Digital Tools</title>
-      <link>https://ericbrasiln.github.io/teaching/tools/</link>
-      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://ericbrasiln.github.io/teaching/tools/</guid>
-      <description>Repositório Digital das Humanidades - REDHBR Acesse aqui a página do REDHBR!
-O REDHBR agrega códigos para coleta automatizada de dados referentes à produção intelectual dos principais congressos e eventos das áreas das humanidades no Brasil.
-Os scripts, as bases de dados e todos os documentos estão disponíveis e poderão ser baixados com apenas um clique.
-pyHDB - Ferramenta heurística para a Hemeroteca Digital Brasileira Acesse aqui a ferramenta
-Ferramenta de auxílio metodológico para pesquisa na Hemeroteca Digital Brasileira da Biblioteca Nacional.</description>
     </item>
     
     <item>

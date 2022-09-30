@@ -7,7 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Mon, 23 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ericbrasiln.github.io/pt-br/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ericbrasiln.github.io/pt-br/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ferramentas Digitais</title>
+      <link>https://ericbrasiln.github.io/pt-br/teaching/tools/</link>
+      <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ericbrasiln.github.io/pt-br/teaching/tools/</guid>
+      <description>Repositório Digital das Humanidades - REDHBR Acesse aqui a página do REDHBR!
+O REDHBR agrega códigos para coleta automatizada de dados referentes à produção intelectual dos principais congressos e eventos das áreas das humanidades no Brasil.
+Os scripts, as bases de dados e todos os documentos estão disponíveis e poderão ser baixados com apenas um clique.
+pyHDB - Ferramenta heurística para a Hemeroteca Digital Brasileira Acesse aqui a ferramenta
+Ferramenta de auxílio metodológico para pesquisa na Hemeroteca Digital Brasileira da Biblioteca Nacional.</description>
+    </item>
+    
     <item>
       <title>Apresentações, oficinas, minicursos, tutoriais</title>
       <link>https://ericbrasiln.github.io/pt-br/teaching/materials/</link>
@@ -58,21 +71,8 @@
       <guid>https://ericbrasiln.github.io/pt-br/cv/</guid>
       <description>Professor do curso de História e do Bacharelado Interdisciplinar em Humanidades do Instituto de Humanidades e Letras da Universidade da Integração Internacional da Lusofonia Afro-Brasileira (UNILAB), campus Malês, Bahia.
 Coordenador do curso de História da mesma universidade nos anos de 2019 e 2020.
-Autor do livro A Corte em Festa: experiências negras em carnavais do Rio de Janeiro (1879-1888) (Editora Prismas, 2016).
-Doutor (2016) e Mestre (2011) pelo Programa de Pós­-Graduação em História Social da Universidade Federal Fluminense.</description>
-    </item>
-    
-    <item>
-      <title>Ferramentas Digitais</title>
-      <link>https://ericbrasiln.github.io/pt-br/teaching/tools/</link>
-      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://ericbrasiln.github.io/pt-br/teaching/tools/</guid>
-      <description>Repositório Digital das Humanidades - REDHBR Acesse aqui a página do REDHBR!
-O REDHBR agrega códigos para coleta automatizada de dados referentes à produção intelectual dos principais congressos e eventos das áreas das humanidades no Brasil.
-Os scripts, as bases de dados e todos os documentos estão disponíveis e poderão ser baixados com apenas um clique.
-pyHDB - Ferramenta heurística para a Hemeroteca Digital Brasileira Acesse aqui a ferramenta
-Ferramenta de auxílio metodológico para pesquisa na Hemeroteca Digital Brasileira da Biblioteca Nacional.</description>
+Investigador Visitante no Laboratório de Humanidades Digitais, IHC, FSCH-NOVA, Lisbon, Portugal.
+Autor do livro A Corte em Festa: experiências negras em carnavais do Rio de Janeiro (1879-1888) (Editora Prismas, 2016).</description>
     </item>
     
     <item>
@@ -81,7 +81,7 @@ Ferramenta de auxílio metodológico para pesquisa na Hemeroteca Digital Brasile
       <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ericbrasiln.github.io/pt-br/publications/books/</guid>
-      <description>Veja aqui as principais publicações nos últimos anos.  BRASIL, Eric; CANELAS, L. . Kalendas, Bamboula e Canboulay: um estudo transnacional sobre Afro-Américas (Martinica e Trinidad, cc. 1780 - 1850). In: Ana Beatriz Ramos de Souza; Hevelly Ferreira Acruche. (Org.). História das Américas: apontamentos iniciais de ensino e pesquisas. 1ed.Juiz de Fora: Editora UFJF, 2021, v. , p. 151-170. ABREU, M.; BRASIL, E. Toward a History of Carnival. In: Oxford Research Encyclopedia of Latin American History.</description>
+      <description>Veja aqui as principais publicações nos últimos anos.  BRASIL, Eric; NASCIMENTO, Leonardo. Por uma História Social Digital: o uso do CAQDAS na pesquisa e escrita da Históra. In: BARROS, José D’Assunção (Org.). História digital: A historiografia diante dos recursos e demandas de um novo tempo. Petrópolis, RJ: Editora Vozes, 2022, p. 228–252. BRASIL, Eric; CANELAS, L. . Kalendas, Bamboula e Canboulay: um estudo transnacional sobre Afro-Américas (Martinica e Trinidad, cc.</description>
     </item>
     
     <item>
@@ -123,7 +123,7 @@ Minicurso &amp;lsquo;Uma introdução ao Markdown e suas possibilidades no ensin
       <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ericbrasiln.github.io/pt-br/projects/in-progress/</guid>
-      <description>Ecossistema de desinformação e propaganda computacional no aplicativo Telegram Descrição: Este projeto propõe estabelecer uma estrutura de mapeamento e análise multi-método de redes de extrema -direita no Telegram, onde recentemente observou-se um aumento no fluxo de usuários e na criação de grupos e canais. Visando monitorar possíveis atividades de propaganda computacional e operações coordenadas de influência ao longo dos próximos dois anos, o projeto combina análises computacionais baseadas na abordagem da linguística de corpus (LC) e técnicas de processamento de linguagem natural (NLP) com uma abordagem qualitativa mista de análise de discurso e etnografia online.</description>
+      <description>Manutenção, criação e publicação de projetos de história digital: o caso do Programming Historian. Descrição: Este projeto visa analisar as diretrizes, estrutura e fluxo de trabalho do Programming Historian, tanto no site quanto nos repositórios GitHub da organização. Como resultado, serão produzidos relatórios sobre o estado atual da arquitetura técnica do PH e sua documentação, bem como um conjunto de recomendações para correção de erros e algumas melhorias, principalmente na versão em português, e uma lição original.</description>
     </item>
     
   </channel>

@@ -2,6 +2,7 @@
 title: Novo artigo sobre a ferramenta pyHDB"
 date: 2023-01-08T15:25:04-00:00
 toc: false
+draft: false
 images:
 tags:
   - publications

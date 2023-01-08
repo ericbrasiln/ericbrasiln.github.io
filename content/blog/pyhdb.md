@@ -2,14 +2,13 @@
 title: "New article about pyHDB tool!"
 date: 2023-01-08T15:25:04-00:00
 toc: false
+draft: false
 images:
 tags:
   - publications
 ---
 
 {{< image src="/img/pyhdb.png" alt="logo pyHDB" position="left" style="border-radius: 8px;" >}}
-
-## English version
 
 On the last day of 2022, the new issue of the [História da Historiografia](https://www.historiadahistoriografia.com.br/revista/issue/view/45) journal came out with an article of mine called ["pyHDB - Ferramenta Heurística para a Hemeroteca Digital Brasileira: utilizando técnicas de web scraping para a pesquisa em História"](https://doi.org/10.15848/hh.v15i40.1904).
 

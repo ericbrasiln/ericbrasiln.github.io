@@ -56,6 +56,17 @@ Investigador Visitante no Laboratório de Humanidades Digitais, IHC, FSCH-NOVA, 
 
 Professor e pesquisador no Instituto de Humanidades e Letras da Universidade da Integração Internacional da Lusofonia Afro-Brasileira (UNILAB), campus Malês, Bahia.
 
+## Competências
+
+- Python
+  - Pandas
+  - Selenium
+  - Plotly
+- Git
+- GitHub
+- Markdown
+- HTML
+
 ## Prêmios e títulos
 
 - 2020 - 2º Lugar - Prêmio Sílvio Romero de Monografias sobre Folclore e Cultura Popular, Centro Nacional de Folclore e Cultura Popular (CNFCP/Iphan).

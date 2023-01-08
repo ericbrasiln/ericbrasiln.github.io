@@ -57,6 +57,17 @@ Visiting Researcher at the Digital Humanities Lab, IHC, FSCH-NOVA, Lisbon, Portu
 
 Professor and researcher at the Institute of Humanities and Languages at the University for the International Integration of Afro-Brazilian Lusophony (IHLM/UNILAB), Malês campus, Bahia, Brazil.
 
+## Skills
+
+- Python
+  - Pandas
+  - Selenium
+  - Plotly
+- Git
+- GitHub
+- Markdown
+- HTML
+
 ## Awards and titles
 
 - 2020 - 2nd Place - Silvio Romero Prize for Monographs on Folklore and Popular Culture, National Center for Folklore and Popular Culture (CNFCP/Iphan).

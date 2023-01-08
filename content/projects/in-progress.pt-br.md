@@ -3,9 +3,12 @@ title: Projetos de pesquisa em andamento
 date: "2022-02-24"
 
 ---
-## Manutenção, criação e publicação de projetos de história digital: o caso do Programming Historian.
+## Métodos, ferramentas e repositórios digitais em português: um framework para a pesquisa em periódicos digitalizados
 
-**Descrição**: Este projeto visa analisar as diretrizes, estrutura e fluxo de trabalho do Programming Historian, tanto no site quanto nos repositórios GitHub da organização. Como resultado, serão produzidos relatórios sobre o estado atual da arquitetura técnica do *PH* e sua documentação, bem como um conjunto de recomendações para correção de erros e algumas melhorias, principalmente na versão em português, e uma lição original. A investigação é desenvolvida no âmbito do Laboratório de Humanidades Digitais do Instituto de História Contemporânea da Universidade Nova de Lisboa (IHC, NOVA/FCSH), sob a orientação de Daniel Alves.
+**Descrição**: O objetivo do projeto é analisar a operação historiográfica relacionada ao processo de selecionar, recolher e organizar fontes primárias por meio de ferramentas e dados digitais. Terá como foco repositórios e interfaces gráficas que permitem o acesso a periódicos da imprensa de língua portuguesa digitalizados, com destaque para a Hemeroteca Digital Brasileira e a coleção de periódicos da Biblioteca Nacional Digital de Portugal. Como resultado pretende-se produzir um framework (enquadramento dos processos de pesquisa) digital que englobe as etapas da pesquisa histórica para esse tipo de fonte. O framework reunirá uma biblioteca de referências bibliográficas; ferramentas para registro metodológico e organização dos dados coletados; documentação e tutoriais dos acervos e suas interfaces gráficas, das ferramentas para reconhecimento ótico de caracteres e reconhecimento automatizado de layout voltados para documentos históricos; e um estudo de caso sobre atuação de intelectuais negros no Rio de Janeiro e Lisboa na década de 1910..
+Situação: Em andamento; Natureza: Pesquisa.
+
+Integrantes: Eric Brasil Nepomuceno - Coordenador / Daniel Alves - Integrante
 
 ## Ecossistema de desinformação e propaganda computacional no aplicativo Telegram
 

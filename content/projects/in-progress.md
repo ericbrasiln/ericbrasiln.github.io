@@ -3,9 +3,14 @@ title: Research projects in progress
 date: "2022-02-24"
 
 ---
-## Maintaining, creating and publishing digital history projects: the case of Programming Historian.
 
-**Summary**: This project aims to analyze the Programming Historian guidelines, structure, and workflow, both on the website and in the organization's GitHub repositories. As a result, will be produced reports about the current state of the technical architecture of the *PH* and its documentation, as well as a set of recommendations for the correction of errors and some improvements, mainly in portuguese version, and a original lesson in portuguese. The research is carried out within the scope of the Laboratory of Digital Humanities of the Institute of Contemporary History of Universidade Nova de Lisboa (IHC, NOVA/FCSH), under the supervision of Daniel Alves.
+## Métodos, ferramentas e repositórios digitais em português: um framework para a pesquisa em periódicos digitalizados
+
+**Summary**: O objetivo do projeto é analisar a operação historiográfica relacionada ao processo de selecionar, recolher e organizar fontes primárias por meio de ferramentas e dados digitais. Terá como foco repositórios e interfaces gráficas que permitem o acesso a periódicos da imprensa de língua portuguesa digitalizados, com destaque para a Hemeroteca Digital Brasileira e a coleção de periódicos da Biblioteca Nacional Digital de Portugal. Como resultado pretende-se produzir um framework (enquadramento dos processos de pesquisa) digital que englobe as etapas da pesquisa histórica para esse tipo de fonte. O framework reunirá uma biblioteca de referências bibliográficas; ferramentas para registro metodológico e organização dos dados coletados; documentação e tutoriais dos acervos e suas interfaces gráficas, das ferramentas para reconhecimento ótico de caracteres e reconhecimento automatizado de layout voltados para documentos históricos; e um estudo de caso sobre atuação de intelectuais negros no Rio de Janeiro e Lisboa na década de 1910.
+
+Situação: Em andamento; Natureza: Pesquisa.
+
+Integrantes: Eric Brasil Nepomuceno - Coordenador / Daniel Alves - Integrante
 
 ## Disinformation ecosystem and computational propaganda in the Telegram app
 

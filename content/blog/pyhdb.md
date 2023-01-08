@@ -6,9 +6,11 @@ date: 2023-01-08
 linktitle: New article about pyHDB tool
 toc: false
 draft: false
+type: post
 images:
 tags:
   - publications
+  - digital tools
 ---
 
 {{< image src="/img/pyhdb.png" alt="logo pyHDB" position="left" style="border-radius: 8px;" >}}

@@ -1,14 +1,16 @@
 ---
 author:
   name: "Eric Brasil"
-title: Novo artigo sobre a ferramenta pyHDB
+title: Novo artigo sobre a ferramenta pyHDB!
 date: 2023-01-08
 linktitle: Novo artigo sobre pyHDB
 toc: false
 draft: false
+type: post
 images:
 tags:
   - publications
+  - digital tools
 ---
 
 {{< image src="/img/pyhdb.png" alt="logo pyHDB" position="left" style="border-radius: 8px;" >}}

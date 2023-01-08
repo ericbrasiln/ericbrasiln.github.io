@@ -114,7 +114,6 @@ defaultContentLanguage = 'en'
     title = "Eric Brasil"
     homeSubtitle = "historiador e professor (IHLM/UNILAB)"
     keywords = "homepage, cv, blog, portfolio"
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Leia mais"
     weight = 2
     [languages.pt-br.params.logo]

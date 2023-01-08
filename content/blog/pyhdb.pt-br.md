@@ -1,6 +1,9 @@
 ---
-title: Novo artigo sobre a ferramenta pyHDB"
-date: 2023-01-08T15:25:04-00:00
+author:
+  name: "Eric Brasil"
+title: Novo artigo sobre a ferramenta pyHDB
+date: 2023-01-08
+linktitle: Novo artigo sobre pyHDB
 toc: false
 draft: false
 images:

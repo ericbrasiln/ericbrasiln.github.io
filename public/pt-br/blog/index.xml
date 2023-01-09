@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Eric Brasil</title>
+    <title>Blogs on Eric Brasil</title>
     <link>https://ericbrasiln.github.io/pt-br/blog/</link>
-    <description>Recent content in Blog on Eric Brasil</description>
+    <description>Recent content in Blogs on Eric Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ericbrasiln.github.io/pt-br/blog/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ericbrasiln.github.io/pt-br/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Novo artigo sobre a ferramenta pyHDB!</title>
+      <link>https://ericbrasiln.github.io/pt-br/blog/pyhdb/</link>
+      <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ericbrasiln.github.io/pt-br/blog/pyhdb/</guid>
+      <description>No último dia de 2022 saiu novo número da Revista História da Historiografia com um artigo meu chamado &amp;ldquo;pyHDB - Ferramenta Heurística para a Hemeroteca Digital Brasileira: utilizando técnicas de web scraping para a pesquisa em História&amp;rdquo;.
+É meu xodó!
+No artigo apresento a pyHDB, ferramenta de suporte metodológico para a pesquisa na Hemeroteca Digital Brasileira, da Biblioteca Nacional. Analiso sua relação com teoria, metodologia e epistemologia da história, focando na seleção, coleta, organização e critica das fontes.</description>
+    </item>
+    
   </channel>
 </rss>

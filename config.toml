@@ -42,7 +42,7 @@ enableEmoji     = true
   [params.portrait]
     path     = "/img/eric-bg.png"
     alt      = "Portrait"
-    maxWidth = "150px"
+    maxWidth = "180px"
 [[params.social]]
   name = "github"
   url = "https://github.com/ericbrasiln"

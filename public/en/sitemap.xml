@@ -4,29 +4,9 @@
   <url>
     <loc>https://ericbrasiln.github.io/blog/</loc>
     <lastmod>2023-01-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://ericbrasiln.github.io/pt-br/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ericbrasiln.github.io/blog/"
-                />
   </url><url>
     <loc>https://ericbrasiln.github.io/tags/digital-tools/</loc>
     <lastmod>2023-01-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://ericbrasiln.github.io/pt-br/tags/digital-tools/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ericbrasiln.github.io/tags/digital-tools/"
-                />
   </url><url>
     <loc>https://ericbrasiln.github.io/</loc>
     <lastmod>2023-01-08T00:00:00+00:00</lastmod>
@@ -41,31 +21,14 @@
                 href="https://ericbrasiln.github.io/"
                 />
   </url><url>
-    <loc>https://ericbrasiln.github.io/blog/pyhdb/</loc>
+    <loc>https://ericbrasiln.github.io/blog/pyhdb-en/</loc>
     <lastmod>2023-01-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://ericbrasiln.github.io/pt-br/blog/pyhdb/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ericbrasiln.github.io/blog/pyhdb/"
-                />
+  </url><url>
+    <loc>https://ericbrasiln.github.io/blog/pyhdb-pt/</loc>
+    <lastmod>2023-01-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ericbrasiln.github.io/tags/publications/</loc>
     <lastmod>2023-01-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://ericbrasiln.github.io/pt-br/tags/publications/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ericbrasiln.github.io/tags/publications/"
-                />
   </url><url>
     <loc>https://ericbrasiln.github.io/tags/</loc>
     <lastmod>2023-01-08T00:00:00+00:00</lastmod>

@@ -1,6 +1,4 @@
 ---
-author:
-  name: "Eric Brasil"
 title: New article about pyHDB tool!
 date: 2023-01-08
 tags:

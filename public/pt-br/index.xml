@@ -6,18 +6,7 @@
     <description>Recent content on Eric Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ericbrasiln.github.io/pt-br/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Novo artigo sobre a ferramenta pyHDB!</title>
-      <link>https://ericbrasiln.github.io/pt-br/blog/pyhdb/</link>
-      <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://ericbrasiln.github.io/pt-br/blog/pyhdb/</guid>
-      <description>No último dia de 2022 saiu novo número da Revista História da Historiografia com um artigo meu chamado &amp;ldquo;pyHDB - Ferramenta Heurística para a Hemeroteca Digital Brasileira: utilizando técnicas de web scraping para a pesquisa em História&amp;rdquo;.
-É meu xodó!
-No artigo apresento a pyHDB, ferramenta de suporte metodológico para a pesquisa na Hemeroteca Digital Brasileira, da Biblioteca Nacional. Analiso sua relação com teoria, metodologia e epistemologia da história, focando na seleção, coleta, organização e critica das fontes.</description>
-    </item>
-    
+    <lastBuildDate>Fri, 30 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ericbrasiln.github.io/pt-br/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ferramentas Digitais</title>
       <link>https://ericbrasiln.github.io/pt-br/teaching/tools/</link>

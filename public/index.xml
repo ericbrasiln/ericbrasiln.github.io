@@ -9,13 +9,24 @@
     <lastBuildDate>Sun, 08 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ericbrasiln.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New article about pyHDB tool!</title>
-      <link>https://ericbrasiln.github.io/blog/pyhdb/</link>
+      <link>https://ericbrasiln.github.io/blog/pyhdb-en/</link>
       <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://ericbrasiln.github.io/blog/pyhdb/</guid>
+      <guid>https://ericbrasiln.github.io/blog/pyhdb-en/</guid>
       <description>On the last day of 2022, the new issue of the História da Historiografia journal came out with an article of mine called &amp;ldquo;pyHDB - Ferramenta Heurística para a Hemeroteca Digital Brasileira: utilizando técnicas de web scraping para a pesquisa em História&amp;rdquo;.
 It is my darling!
 In the article, I present pyHDB, a methodological support tool for research in the Brazilian Digital Newspaper Library, of the National Library. I analyze its relationship with the theory, methodology, and epistemology of history, focusing on the selection, collection, organization, and criticism of sources.</description>
+    </item>
+    
+    <item>
+      <title>Novo artigo sobre a ferramenta pyHDB!</title>
+      <link>https://ericbrasiln.github.io/blog/pyhdb-pt/</link>
+      <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ericbrasiln.github.io/blog/pyhdb-pt/</guid>
+      <description>No último dia de 2022 saiu novo número da Revista História da Historiografia com um artigo meu chamado &amp;ldquo;pyHDB - Ferramenta Heurística para a Hemeroteca Digital Brasileira: utilizando técnicas de web scraping para a pesquisa em História&amp;rdquo;.
+É meu xodó!
+No artigo apresento a pyHDB, ferramenta de suporte metodológico para a pesquisa na Hemeroteca Digital Brasileira, da Biblioteca Nacional. Analiso sua relação com teoria, metodologia e epistemologia da história, focando na seleção, coleta, organização e critica das fontes.</description>
     </item>
     
     <item>

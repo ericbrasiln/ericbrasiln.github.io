@@ -40,7 +40,7 @@ enableEmoji     = true
       "Theme by <a href=\"https://github.com/rhazdon\">rhazdon</a>","<a href='https://creativecommons.org/licenses/by-nc/4.0/'>CC BY-NC 4.0</a>"
     ]
   [params.portrait]
-    path     = "/img/eric.jpg"
+    path     = "/img/eric-bg.png"
     alt      = "Portrait"
     maxWidth = "150px"
 [[params.social]]

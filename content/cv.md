@@ -6,11 +6,13 @@ description: >
 date: "2022-05-23"
 ---
 
-Professor of the undergraduate courses in History and Humanities at the Institute of Humanities and Languages at the University for the International Integration of Afro-Brazilian Lusophony (IHLM/UNILAB), Malês campus, Bahia, Brazil.
+Professor of the undergraduate courses in History and Humanities at the Institute of Humanities and Languages at the University for the International Integration of Afro-Brazilian Lusophony (IHLM/UNILAB), Malês campus, Bahia, Brazil (2017 - current).
 
 Coordinator of the undergraduate course in History at the same institute from 2019 to 2020.
 
 Visiting Researcher at the Digital Humanities Lab, IHC, FSCH-NOVA, Lisbon, Portugal.
+
+Professor of the Multidisciplinary Graduate Program in Ethnic and African Studies (POSAFRO) at the Federal University of Bahia.
 
 Author of the book **A Corte em Festa**: experiências negras em carnavais do Rio de Janeiro (1879-1888) (Editora Prismas, 2016).
 

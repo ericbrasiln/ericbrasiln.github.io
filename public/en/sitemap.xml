@@ -41,6 +41,19 @@
                 href="https://ericbrasiln.github.io/publications/"
                 />
   </url><url>
+    <loc>https://ericbrasiln.github.io/cv/</loc>
+    <lastmod>2024-03-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://ericbrasiln.github.io/pt-br/cv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ericbrasiln.github.io/cv/"
+                />
+  </url><url>
     <loc>https://ericbrasiln.github.io/blog/</loc>
     <lastmod>2023-01-08T00:00:00+00:00</lastmod>
   </url><url>
@@ -158,19 +171,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://ericbrasiln.github.io/talks/lectures/"
-                />
-  </url><url>
-    <loc>https://ericbrasiln.github.io/cv/</loc>
-    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://ericbrasiln.github.io/pt-br/cv/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ericbrasiln.github.io/cv/"
                 />
   </url><url>
     <loc>https://ericbrasiln.github.io/talks/</loc>

@@ -3,16 +3,14 @@ layout: page
 title: Summarized curriculum
 description: >
   Summarized curriculum.
-date: "2022-05-23"
+date: "2024-03-15"
 ---
 
 Professor of the undergraduate courses in History and Humanities at the Institute of Humanities and Languages at the University for the International Integration of Afro-Brazilian Lusophony (IHLM/UNILAB), Malês campus, Bahia, Brazil (2017 - current).
 
 Coordinator of the undergraduate course in History at the same institute from 2019 to 2020.
 
-Visiting Researcher at the Digital Humanities Lab, IHC, FSCH-NOVA, Lisbon, Portugal.
-
-Professor of the Multidisciplinary Graduate Program in Ethnic and African Studies (POSAFRO) at the Federal University of Bahia.
+Visiting Researcher at the Digital Humanities Lab, IHC, FSCH-NOVA, Lisbon, Portugal (2022 - 2023).
 
 Author of the book **A Corte em Festa**: experiências negras em carnavais do Rio de Janeiro (1879-1888) (Editora Prismas, 2016).
 
@@ -20,7 +18,7 @@ Phd (2016) and Master (2011) in History at Universidade Federal Fluminense.
 
 Winner of the first (2011) and second (2020) prizes in the Monograph Competition of the National Center for Folklore and Popular Culture, IPHAN.
 
-Editor of [Programming Historian](https://programminghistorian.org/pt/) in portuguese.
+Managing Editor of [Programming Historian](https://programminghistorian.org/pt/) in portuguese.
 
 Researcher at the [Digital Humanities Lab - UFBA](http://labhd.ufba.br/).
 
@@ -51,7 +49,7 @@ Elementary and high school teacher in Rio de Janeiro, Brazil, between 2007 and 2
 
 ## Professional experience
 
-### 2022 - today: **NOVA University Lisbon**
+### 2022 - 2023: **NOVA University Lisbon**
 
 Visiting Researcher at the Digital Humanities Lab, IHC, FSCH-NOVA, Lisbon, Portugal.
 

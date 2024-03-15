@@ -2,6 +2,22 @@
 title: Completed research projects
 date: "2022-02-24"
 ---
+## Métodos, ferramentas e repositórios digitais em português: um framework para a pesquisa em periódicos digitalizados
+
+**Summary**: O objetivo do projeto é analisar a operação historiográfica relacionada ao processo de selecionar, recolher e organizar fontes primárias por meio de ferramentas e dados digitais. Terá como foco repositórios e interfaces gráficas que permitem o acesso a periódicos da imprensa de língua portuguesa digitalizados, com destaque para a Hemeroteca Digital Brasileira e a coleção de periódicos da Biblioteca Nacional Digital de Portugal. Como resultado pretende-se produzir um framework (enquadramento dos processos de pesquisa) digital que englobe as etapas da pesquisa histórica para esse tipo de fonte. O framework reunirá uma biblioteca de referências bibliográficas; ferramentas para registro metodológico e organização dos dados coletados; documentação e tutoriais dos acervos e suas interfaces gráficas, das ferramentas para reconhecimento ótico de caracteres e reconhecimento automatizado de layout voltados para documentos históricos. Acesse o produto final da pesquisa [aqui](https://ericbrasiln.github.io/hemdig-framework/).
+
+Situação: Concluído; Natureza: Pesquisa.
+
+Integrantes: Eric Brasil Nepomuceno - Coordenador / Daniel Alves - Integrante
+
+## Digital History: digital archives and tools for research and teaching
+
+**Descrição**: O projeto 'História Digital: acervos e ferramentas digitais para pesquisa e ensino' pretende promover o debate sobre os impactos teórico-metodológicos para o ofício do historiador e do professor de história gerado pelo avanço irrefreável tanto dos acervos digitais de fontes primárias quanto das ferramentas digitais para pesquisa, escrita e ensino da disciplina. Buscamos elaborar acervos de repositórios de fontes digitais on-line disponíveis para pesquisa e refletir sobre suas implicações para História e seu ensino no Brasil, mais especificamente no curso de licenciatura em História na Unilab, campus dos Malês.
+
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: uma bolsista Pibic.
+
+
 ## Maintaining, creating and publishing digital history projects: the case of Programming Historian.
 
 **Summary**: This project aims to analyze the Programming Historian guidelines, structure, and workflow, both on the website and in the organization's GitHub repositories. As a result, will be produced reports about the current state of the technical architecture of the *PH* and its documentation, as well as a set of recommendations for the correction of errors and some improvements, mainly in portuguese version, and a original lesson in portuguese. The research is carried out within the scope of the Laboratory of Digital Humanities of the Institute of Contemporary History of Universidade Nova de Lisboa (IHC, NOVA/FCSH), under the supervision of Daniel Alves.

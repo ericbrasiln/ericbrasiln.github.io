@@ -2,9 +2,25 @@
 title: Projetos de pesquisa concluídos
 date: "2022-02-24"
 ---
+
+## Métodos, ferramentas e repositórios digitais em português: um framework para a pesquisa em periódicos digitalizados
+
+**Summary**: O objetivo do projeto é analisar a operação historiográfica relacionada ao processo de selecionar, recolher e organizar fontes primárias por meio de ferramentas e dados digitais. Terá como foco repositórios e interfaces gráficas que permitem o acesso a periódicos da imprensa de língua portuguesa digitalizados, com destaque para a Hemeroteca Digital Brasileira e a coleção de periódicos da Biblioteca Nacional Digital de Portugal. Como resultado pretende-se produzir um framework (enquadramento dos processos de pesquisa) digital que englobe as etapas da pesquisa histórica para esse tipo de fonte. O framework reunirá uma biblioteca de referências bibliográficas; ferramentas para registro metodológico e organização dos dados coletados; documentação e tutoriais dos acervos e suas interfaces gráficas, das ferramentas para reconhecimento ótico de caracteres e reconhecimento automatizado de layout voltados para documentos históricos. Acesse o produto final da pesquisa [aqui](https://ericbrasiln.github.io/hemdig-framework/).
+
+Situação: Concluído; Natureza: Pesquisa.
+
+Integrantes: Eric Brasil Nepomuceno - Coordenador / Daniel Alves - Integrante
+
 ## Manutenção, criação e publicação de projetos de história digital: o caso do Programming Historian.
 
 **Descrição**: Este projeto visa analisar as diretrizes, estrutura e fluxo de trabalho do Programming Historian, tanto no site quanto nos repositórios GitHub da organização. Como resultado, serão produzidos relatórios sobre o estado atual da arquitetura técnica do *PH* e sua documentação, bem como um conjunto de recomendações para correção de erros e algumas melhorias, principalmente na versão em português, e uma lição original. A investigação é desenvolvida no âmbito do Laboratório de Humanidades Digitais do Instituto de História Contemporânea da Universidade Nova de Lisboa (IHC, NOVA/FCSH), sob a orientação de Daniel Alves.
+
+## História Digital: acervos e ferramentas digitais para pesquisa e ensino
+
+**Descrição**: O projeto 'História Digital: acervos e ferramentas digitais para pesquisa e ensino' pretende promover o debate sobre os impactos teórico-metodológicos para o ofício do historiador e do professor de história gerado pelo avanço irrefreável tanto dos acervos digitais de fontes primárias quanto das ferramentas digitais para pesquisa, escrita e ensino da disciplina. Buscamos elaborar acervos de repositórios de fontes digitais on-line disponíveis para pesquisa e refletir sobre suas implicações para História e seu ensino no Brasil, mais especificamente no curso de licenciatura em História na Unilab, campus dos Malês.
+
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: uma bolsista Pibic.
 
 ## Pós-Abolição: sentidos, usos e produção acadêmica (2004-2019)
 

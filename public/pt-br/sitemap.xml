@@ -2,8 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ericbrasiln.github.io/pt-br/publications/articles/</loc>
+    <lastmod>2024-03-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ericbrasiln.github.io/publications/articles/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://ericbrasiln.github.io/pt-br/publications/articles/"
+                />
+  </url><url>
     <loc>https://ericbrasiln.github.io/pt-br/</loc>
-    <lastmod>2022-09-30T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -13,6 +26,19 @@
                 rel="alternate"
                 hreflang="pt-br"
                 href="https://ericbrasiln.github.io/pt-br/"
+                />
+  </url><url>
+    <loc>https://ericbrasiln.github.io/pt-br/publications/</loc>
+    <lastmod>2024-03-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ericbrasiln.github.io/publications/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://ericbrasiln.github.io/pt-br/publications/"
                 />
   </url><url>
     <loc>https://ericbrasiln.github.io/pt-br/teaching/tools/</loc>
@@ -52,19 +78,6 @@
                 rel="alternate"
                 hreflang="pt-br"
                 href="https://ericbrasiln.github.io/pt-br/teaching/materials/"
-                />
-  </url><url>
-    <loc>https://ericbrasiln.github.io/pt-br/publications/articles/</loc>
-    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ericbrasiln.github.io/publications/articles/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://ericbrasiln.github.io/pt-br/publications/articles/"
                 />
   </url><url>
     <loc>https://ericbrasiln.github.io/pt-br/teaching/courses/</loc>
@@ -130,19 +143,6 @@
                 rel="alternate"
                 hreflang="pt-br"
                 href="https://ericbrasiln.github.io/pt-br/talks/lectures/"
-                />
-  </url><url>
-    <loc>https://ericbrasiln.github.io/pt-br/publications/</loc>
-    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ericbrasiln.github.io/publications/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://ericbrasiln.github.io/pt-br/publications/"
                 />
   </url><url>
     <loc>https://ericbrasiln.github.io/pt-br/talks/</loc>

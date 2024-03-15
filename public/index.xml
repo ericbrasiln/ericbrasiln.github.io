@@ -6,7 +6,16 @@
     <description>Recent content on Eric Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ericbrasiln.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ericbrasiln.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Journal articles</title>
+      <link>https://ericbrasiln.github.io/publications/articles/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ericbrasiln.github.io/publications/articles/</guid>
+      <description>List of top publications of recent years  Git como ferramenta metodológica em projetos de História (parte 1), Programming Historian em português 3 (2023), https://doi.org/10.46430/phpt0045. pyHDB - Ferramenta Heurística para a Hemeroteca Digital Brasileira: utilizando técnicas de web scraping para a pesquisa em História. História da Historiografia: International Journal of Theory and History of Historiography, Ouro Preto, v. 15, n. 40, p. 186–217, 2022. DOI The Caribbean Struggle for Freedom - Freedom Roots: Histories from the Caribbean.</description>
+    </item>
+    
     <item>
       <title>New article about pyHDB tool!</title>
       <link>https://ericbrasiln.github.io/blog/pyhdb-en/</link>
@@ -71,15 +80,6 @@ Methodological aid tool for research in the Brazilian Digital Newspaper Library 
       
       <guid>https://ericbrasiln.github.io/contact/</guid>
       <description>E-mails:  ericbrasiln@proton.me profericbrasil@unilab.edu.br  Linktree Lattes - Orcid - ResearchGate - Academia.edu - GitHub - Twitter - Mastodon</description>
-    </item>
-    
-    <item>
-      <title>Journal articles</title>
-      <link>https://ericbrasiln.github.io/publications/articles/</link>
-      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://ericbrasiln.github.io/publications/articles/</guid>
-      <description>List of top publications of recent years  pyHDB - Ferramenta Heurística para a Hemeroteca Digital Brasileira: utilizando técnicas de web scraping para a pesquisa em História. História da Historiografia: International Journal of Theory and History of Historiography, Ouro Preto, v. 15, n. 40, p. 186–217, 2022. DOI The Caribbean Struggle for Freedom - Freedom Roots: Histories from the Caribbean. By Laurent Dubois and Richard Lee Turits. Chapel Hill: University of North Carolina Press, 2019.</description>
     </item>
     
     <item>

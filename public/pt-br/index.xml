@@ -6,7 +6,16 @@
     <description>Recent content on Eric Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ericbrasiln.github.io/pt-br/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ericbrasiln.github.io/pt-br/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Artigos em periódicos</title>
+      <link>https://ericbrasiln.github.io/pt-br/publications/articles/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ericbrasiln.github.io/pt-br/publications/articles/</guid>
+      <description>Veja aqui as principais publicações nos últimos anos.  Git como ferramenta metodológica em projetos de História (parte 1), Programming Historian em português 3 (2023), https://doi.org/10.46430/phpt0045. pyHDB - Ferramenta Heurística para a Hemeroteca Digital Brasileira: utilizando técnicas de web scraping para a pesquisa em História. História da Historiografia: International Journal of Theory and History of Historiography, Ouro Preto, v. 15, n. 40, p. 186–217, 2022. DOI The Caribbean Struggle for Freedom - Freedom Roots: Histories from the Caribbean.</description>
+    </item>
+    
     <item>
       <title>Ferramentas Digitais</title>
       <link>https://ericbrasiln.github.io/pt-br/teaching/tools/</link>
@@ -29,15 +38,6 @@ Ferramenta de auxílio metodológico para pesquisa na Hemeroteca Digital Brasile
       <description>Material de apresentações, mesas e palestras   Criação, manutenção e divulgação de projetos de História em meios digitais: git, GitHub e o Programming Historian. Material para o Webinar LHUD - FGV/CPDOC. DOI
   Hemeroteca Digital Brasileira e a pesquisa histórica: reflexões sobre teoria e prática. Material para o curso e-história da Educação da UFRN. DOI
   Dá pra pesquisar o Caribe do Brasil? Reflexões teórico-metodológicas. Material para a mesa promovida pelo Canal da América - 2020-11-30, 17h.</description>
-    </item>
-    
-    <item>
-      <title>Artigos em periódicos</title>
-      <link>https://ericbrasiln.github.io/pt-br/publications/articles/</link>
-      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://ericbrasiln.github.io/pt-br/publications/articles/</guid>
-      <description>Veja aqui as principais publicações nos últimos anos.  pyHDB - Ferramenta Heurística para a Hemeroteca Digital Brasileira: utilizando técnicas de web scraping para a pesquisa em História. História da Historiografia: International Journal of Theory and History of Historiography, Ouro Preto, v. 15, n. 40, p. 186–217, 2022. DOI The Caribbean Struggle for Freedom - Freedom Roots: Histories from the Caribbean. By Laurent Dubois and Richard Lee Turits. Chapel Hill: University of North Carolina Press, 2019.</description>
     </item>
     
     <item>

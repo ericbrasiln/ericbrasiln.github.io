@@ -2,12 +2,12 @@
 title: Artigos em periódicos
 description: >
   Lista das principais publicações dos últimos anos.
-date: "2022-05-23"
+date: "2024-03-15"
 ---
 
 ## Veja aqui as principais publicações nos últimos anos.
 
-1. "Git como ferramenta metodológica em projetos de História (parte 1)", Programming Historian em português 3 (2023), https://doi.org/10.46430/phpt0045.
+1. Git como ferramenta metodológica em projetos de História (parte 1), *Programming Historian em português 3* (2023), https://doi.org/10.46430/phpt0045.
 2. pyHDB - Ferramenta Heurística para a Hemeroteca Digital Brasileira: utilizando técnicas de web scraping para a pesquisa em História. *História da Historiografia: International Journal of Theory and History of Historiography*, Ouro Preto, v. 15, n. 40, p. 186–217, 2022. [DOI](10.15848/hh.v15i40.1904)
 3. The Caribbean Struggle for Freedom - Freedom Roots: Histories from the Caribbean. By Laurent Dubois and Richard Lee Turits. Chapel Hill: University of North Carolina Press, 2019. Pp. 408. $35.00 cloth; $26.99 e-book.. *The Americas*, v. 79, p. 141-143, 2022.
 4. BRASIL, E.; NASCIMENTO, L. F. História digital: reflexões a partir da Hemeroteca Digital Brasileira e do uso de CAQDAS na reelaboração da pesquisa histórica. *Revista Estudos Históricos*, v. 33, n. 69, p. 196–219, 1 jan. 2020. [DOI](http://dx.doi.org/10.1590/S2178-14942020000100011)

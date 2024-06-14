@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Eric Brasil</title>
-    <link>https://ericbrasil.com.br/publications/</link>
+    <link>http://localhost:1313/publications/</link>
     <description>Recent content in Publications on Eric Brasil</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ericbrasil.com.br/publications/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Journal articles</title>
-      <link>https://ericbrasil.com.br/publications/articles/</link>
+      <link>http://localhost:1313/publications/articles/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://ericbrasil.com.br/publications/articles/</guid>
+      <guid>http://localhost:1313/publications/articles/</guid>
       <description>List of top publications of recent years Git como ferramenta metodológica em projetos de História (parte 1), Programming Historian em português 3 (2023), https://doi.org/10.46430/phpt0045. pyHDB - Ferramenta Heurística para a Hemeroteca Digital Brasileira: utilizando técnicas de web scraping para a pesquisa em História. História da Historiografia: International Journal of Theory and History of Historiography, Ouro Preto, v. 15, n. 40, p. 186–217, 2022. DOI The Caribbean Struggle for Freedom - Freedom Roots: Histories from the Caribbean.</description>
     </item>
     <item>
       <title>Books and chapters</title>
-      <link>https://ericbrasil.com.br/publications/books/</link>
+      <link>http://localhost:1313/publications/books/</link>
       <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://ericbrasil.com.br/publications/books/</guid>
+      <guid>http://localhost:1313/publications/books/</guid>
       <description>List of top publications of recent years. BRASIL, E.; NASCIMENTO, L. F. A ferramenta de busca da Hemeroteca Digital da Brasileira e o ofício do historiador: reflexões para a história digital. In: Nicodemo; Rota; Marino (orgs.). Caminhos da História Digital no Brasil. 1ed. Vitória, ES: Editora Milflores, 2022, p. 209-252. BRASIL, Eric; NASCIMENTO, Leonardo. Por uma História Social Digital: o uso do CAQDAS na pesquisa e escrita da Históra. In: BARROS, José D’Assunção (Org.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teste on Eric Brasil</title>
-    <link>https://ericbrasil.com.br/tags/teste/</link>
+    <link>http://localhost:1313/tags/teste/</link>
     <description>Recent content in Teste on Eric Brasil</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 23 Feb 2022 22:44:04 -0300</lastBuildDate>
-    <atom:link href="https://ericbrasil.com.br/tags/teste/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/teste/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New website / Novo Site</title>
-      <link>https://ericbrasil.com.br/blog/my-first-post/</link>
+      <link>http://localhost:1313/blog/my-first-post/</link>
       <pubDate>Wed, 23 Feb 2022 22:44:04 -0300</pubDate>
-      <guid>https://ericbrasil.com.br/blog/my-first-post/</guid>
+      <guid>http://localhost:1313/blog/my-first-post/</guid>
       <description>Personal website update for HUGO with the theme created by rhazdon.&#xA;Atualização do site pessoal para HUGO com o tema criado por rhazdon.</description>
     </item>
   </channel>

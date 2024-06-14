@@ -2,280 +2,280 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ericbrasil.com.br/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-03-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://ericbrasil.com.br/pt-br/"
+                href="http://localhost:1313/pt-br/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ericbrasil.com.br/"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>https://ericbrasil.com.br/publications/articles/</loc>
+    <loc>http://localhost:1313/publications/articles/</loc>
     <lastmod>2024-03-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://ericbrasil.com.br/pt-br/publications/articles/"
+                href="http://localhost:1313/pt-br/publications/articles/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ericbrasil.com.br/publications/articles/"
+                href="http://localhost:1313/publications/articles/"
                 />
   </url><url>
-    <loc>https://ericbrasil.com.br/publications/</loc>
+    <loc>http://localhost:1313/publications/</loc>
     <lastmod>2024-03-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://ericbrasil.com.br/pt-br/publications/"
+                href="http://localhost:1313/pt-br/publications/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ericbrasil.com.br/publications/"
+                href="http://localhost:1313/publications/"
                 />
   </url><url>
-    <loc>https://ericbrasil.com.br/cv/</loc>
+    <loc>http://localhost:1313/cv/</loc>
     <lastmod>2024-03-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://ericbrasil.com.br/pt-br/cv/"
+                href="http://localhost:1313/pt-br/cv/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ericbrasil.com.br/cv/"
+                href="http://localhost:1313/cv/"
                 />
   </url><url>
-    <loc>https://ericbrasil.com.br/blog/</loc>
+    <loc>http://localhost:1313/blog/</loc>
     <lastmod>2023-01-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://ericbrasil.com.br/pt-br/blog/"
+                href="http://localhost:1313/pt-br/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ericbrasil.com.br/blog/"
+                href="http://localhost:1313/blog/"
                 />
   </url><url>
-    <loc>https://ericbrasil.com.br/tags/digital-tools/</loc>
+    <loc>http://localhost:1313/tags/digital-tools/</loc>
     <lastmod>2023-01-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ericbrasil.com.br/blog/post-1-en/</loc>
+    <loc>http://localhost:1313/blog/post-1-en/</loc>
     <lastmod>2023-01-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ericbrasil.com.br/blog/pyhdb-pt/</loc>
+    <loc>http://localhost:1313/blog/pyhdb-pt/</loc>
     <lastmod>2023-01-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ericbrasil.com.br/tags/publications/</loc>
+    <loc>http://localhost:1313/tags/publications/</loc>
     <lastmod>2023-01-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ericbrasil.com.br/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2023-01-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://ericbrasil.com.br/pt-br/tags/"
+                href="http://localhost:1313/pt-br/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ericbrasil.com.br/tags/"
+                href="http://localhost:1313/tags/"
                 />
   </url><url>
-    <loc>https://ericbrasil.com.br/teaching/tools/</loc>
+    <loc>http://localhost:1313/teaching/tools/</loc>
     <lastmod>2022-09-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://ericbrasil.com.br/pt-br/teaching/tools/"
+                href="http://localhost:1313/pt-br/teaching/tools/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ericbrasil.com.br/teaching/tools/"
+                href="http://localhost:1313/teaching/tools/"
                 />
   </url><url>
-    <loc>https://ericbrasil.com.br/teaching/</loc>
+    <loc>http://localhost:1313/teaching/</loc>
     <lastmod>2022-09-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://ericbrasil.com.br/pt-br/teaching/"
+                href="http://localhost:1313/pt-br/teaching/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ericbrasil.com.br/teaching/"
+                href="http://localhost:1313/teaching/"
                 />
   </url><url>
-    <loc>https://ericbrasil.com.br/publications/books/</loc>
+    <loc>http://localhost:1313/publications/books/</loc>
     <lastmod>2022-05-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://ericbrasil.com.br/pt-br/publications/books/"
+                href="http://localhost:1313/pt-br/publications/books/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ericbrasil.com.br/publications/books/"
+                href="http://localhost:1313/publications/books/"
                 />
   </url><url>
-    <loc>https://ericbrasil.com.br/teaching/courses/</loc>
+    <loc>http://localhost:1313/teaching/courses/</loc>
     <lastmod>2022-05-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://ericbrasil.com.br/pt-br/teaching/courses/"
+                href="http://localhost:1313/pt-br/teaching/courses/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ericbrasil.com.br/teaching/courses/"
+                href="http://localhost:1313/teaching/courses/"
                 />
   </url><url>
-    <loc>https://ericbrasil.com.br/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
     <lastmod>2022-05-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://ericbrasil.com.br/pt-br/contact/"
+                href="http://localhost:1313/pt-br/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ericbrasil.com.br/contact/"
+                href="http://localhost:1313/contact/"
                 />
   </url><url>
-    <loc>https://ericbrasil.com.br/teaching/materials/</loc>
+    <loc>http://localhost:1313/teaching/materials/</loc>
     <lastmod>2022-05-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://ericbrasil.com.br/pt-br/teaching/materials/"
+                href="http://localhost:1313/pt-br/teaching/materials/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ericbrasil.com.br/teaching/materials/"
+                href="http://localhost:1313/teaching/materials/"
                 />
   </url><url>
-    <loc>https://ericbrasil.com.br/talks/lectures/</loc>
+    <loc>http://localhost:1313/talks/lectures/</loc>
     <lastmod>2022-05-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://ericbrasil.com.br/pt-br/talks/lectures/"
+                href="http://localhost:1313/pt-br/talks/lectures/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ericbrasil.com.br/talks/lectures/"
+                href="http://localhost:1313/talks/lectures/"
                 />
   </url><url>
-    <loc>https://ericbrasil.com.br/talks/</loc>
+    <loc>http://localhost:1313/talks/</loc>
     <lastmod>2022-05-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://ericbrasil.com.br/pt-br/talks/"
+                href="http://localhost:1313/pt-br/talks/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ericbrasil.com.br/talks/"
+                href="http://localhost:1313/talks/"
                 />
   </url><url>
-    <loc>https://ericbrasil.com.br/blog/my-first-post/</loc>
+    <loc>http://localhost:1313/blog/my-first-post/</loc>
     <lastmod>2022-02-23T22:44:04-03:00</lastmod>
   </url><url>
-    <loc>https://ericbrasil.com.br/tags/teste/</loc>
+    <loc>http://localhost:1313/tags/teste/</loc>
     <lastmod>2022-02-23T22:44:04-03:00</lastmod>
   </url><url>
-    <loc>https://ericbrasil.com.br/projects/completed/</loc>
+    <loc>http://localhost:1313/projects/completed/</loc>
     <lastmod>2022-02-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://ericbrasil.com.br/pt-br/projects/completed/"
+                href="http://localhost:1313/pt-br/projects/completed/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ericbrasil.com.br/projects/completed/"
+                href="http://localhost:1313/projects/completed/"
                 />
   </url><url>
-    <loc>https://ericbrasil.com.br/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2022-02-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://ericbrasil.com.br/pt-br/projects/"
+                href="http://localhost:1313/pt-br/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ericbrasil.com.br/projects/"
+                href="http://localhost:1313/projects/"
                 />
   </url><url>
-    <loc>https://ericbrasil.com.br/projects/in-progress/</loc>
+    <loc>http://localhost:1313/projects/in-progress/</loc>
     <lastmod>2022-02-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://ericbrasil.com.br/pt-br/projects/in-progress/"
+                href="http://localhost:1313/pt-br/projects/in-progress/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ericbrasil.com.br/projects/in-progress/"
+                href="http://localhost:1313/projects/in-progress/"
                 />
   </url><url>
-    <loc>https://ericbrasil.com.br/talks/video-lessons/</loc>
+    <loc>http://localhost:1313/talks/video-lessons/</loc>
     <lastmod>2022-02-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://ericbrasil.com.br/pt-br/talks/video-lessons/"
+                href="http://localhost:1313/pt-br/talks/video-lessons/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ericbrasil.com.br/talks/video-lessons/"
+                href="http://localhost:1313/talks/video-lessons/"
                 />
   </url><url>
-    <loc>https://ericbrasil.com.br/en/</loc>
+    <loc>http://localhost:1313/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://ericbrasil.com.br/pt-br/en/"
+                href="http://localhost:1313/pt-br/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ericbrasil.com.br/en/"
+                href="http://localhost:1313/en/"
                 />
   </url><url>
-    <loc>https://ericbrasil.com.br/series/</loc>
+    <loc>http://localhost:1313/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://ericbrasil.com.br/pt-br/series/"
+                href="http://localhost:1313/pt-br/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ericbrasil.com.br/series/"
+                href="http://localhost:1313/series/"
                 />
   </url>
 </urlset>

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teachings on Eric Brasil</title>
-    <link>https://ericbrasil.com.br/teaching/</link>
+    <link>http://localhost:1313/teaching/</link>
     <description>Recent content in Teachings on Eric Brasil</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 30 Sep 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ericbrasil.com.br/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/teaching/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Digital Tools</title>
-      <link>https://ericbrasil.com.br/teaching/tools/</link>
+      <link>http://localhost:1313/teaching/tools/</link>
       <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://ericbrasil.com.br/teaching/tools/</guid>
+      <guid>http://localhost:1313/teaching/tools/</guid>
       <description>Brazilian Humanities Digital Repository - REDHBR Access the page here!&#xA;REDHBR aggregates codes for automated data collection regarding the main events and associations in the humanities area in Brazil.&#xA;Scripts, databases and all documents are available and can be downloaded with just one click.&#xA;pyHDB - Heuristic tool for the Brazilian Digital Newspaper Library Access the tool here&#xA;Methodological aid tool for research in the Brazilian Digital Newspaper Library of the National Library.</description>
     </item>
     <item>
       <title>Classes and Courses</title>
-      <link>https://ericbrasil.com.br/teaching/courses/</link>
+      <link>http://localhost:1313/teaching/courses/</link>
       <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://ericbrasil.com.br/teaching/courses/</guid>
+      <guid>http://localhost:1313/teaching/courses/</guid>
       <description>Websites and presentations of courses and classes Course: CCLHM0069 - Introdução à História Digital - 2021.1&#xA;Course: CCLHM0057 - História da América: colonização e resistência - 2021.1&#xA;Course: CCLHM0057 - História da América: colonização e resistência - 2020.1&#xA;Course: BHUM0004 - Processos coloniais e a construação da modernidade - 2020.1&#xA;Course: Ferramentas Digitais e a pesquisa em Humanidades - Plex (2020)&#xA;Classes: Revolução Mexicana&#xA;Classes: Revolução Cubana</description>
     </item>
     <item>
       <title>Presentations, workshops, tutorials</title>
-      <link>https://ericbrasil.com.br/teaching/materials/</link>
+      <link>http://localhost:1313/teaching/materials/</link>
       <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://ericbrasil.com.br/teaching/materials/</guid>
+      <guid>http://localhost:1313/teaching/materials/</guid>
       <description>Material for presentations, round tables and lectures Criação, manutenção e divulgação de projetos de História em meios digitais: git, GitHub e o Programming Historian. Material para o Webinar LHUD - FGV/CPDOC. DOI&#xA;Hemeroteca Digital Brasileira e a pesquisa histórica: reflexões sobre teoria e prática. Material para o curso e-história da Educação da UFRN. DOI&#xA;Dá pra pesquisar o Caribe do Brasil? Reflexões teórico-metodológicas. Material para a mesa promovida pelo Canal da América - 2020-11-30, 17h.</description>
     </item>
   </channel>

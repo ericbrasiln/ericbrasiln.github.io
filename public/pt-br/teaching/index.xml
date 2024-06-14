@@ -2,47 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teachings on Eric Brasil</title>
-    <link>https://ericbrasiln.github.io/pt-br/teaching/</link>
+    <link>https://ericbrasil.com.br/pt-br/teaching/</link>
     <description>Recent content in Teachings on Eric Brasil</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 30 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ericbrasiln.github.io/pt-br/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 30 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ericbrasil.com.br/pt-br/teaching/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ferramentas Digitais</title>
-      <link>https://ericbrasiln.github.io/pt-br/teaching/tools/</link>
+      <link>https://ericbrasil.com.br/pt-br/teaching/tools/</link>
       <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://ericbrasiln.github.io/pt-br/teaching/tools/</guid>
-      <description>Repositório Digital das Humanidades - REDHBR Acesse aqui a página do REDHBR!
-O REDHBR agrega códigos para coleta automatizada de dados referentes à produção intelectual dos principais congressos e eventos das áreas das humanidades no Brasil.
-Os scripts, as bases de dados e todos os documentos estão disponíveis e poderão ser baixados com apenas um clique.
-pyHDB - Ferramenta heurística para a Hemeroteca Digital Brasileira Acesse aqui a ferramenta
-Ferramenta de auxílio metodológico para pesquisa na Hemeroteca Digital Brasileira da Biblioteca Nacional.</description>
+      <guid>https://ericbrasil.com.br/pt-br/teaching/tools/</guid>
+      <description>Repositório Digital das Humanidades - REDHBR Acesse aqui a página do REDHBR!&#xA;O REDHBR agrega códigos para coleta automatizada de dados referentes à produção intelectual dos principais congressos e eventos das áreas das humanidades no Brasil.&#xA;Os scripts, as bases de dados e todos os documentos estão disponíveis e poderão ser baixados com apenas um clique.&#xA;pyHDB - Ferramenta heurística para a Hemeroteca Digital Brasileira Acesse aqui a ferramenta&#xA;Ferramenta de auxílio metodológico para pesquisa na Hemeroteca Digital Brasileira da Biblioteca Nacional.</description>
     </item>
-    
     <item>
       <title>Apresentações, oficinas, minicursos, tutoriais</title>
-      <link>https://ericbrasiln.github.io/pt-br/teaching/materials/</link>
+      <link>https://ericbrasil.com.br/pt-br/teaching/materials/</link>
       <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://ericbrasiln.github.io/pt-br/teaching/materials/</guid>
-      <description>Material de apresentações, mesas e palestras   Criação, manutenção e divulgação de projetos de História em meios digitais: git, GitHub e o Programming Historian. Material para o Webinar LHUD - FGV/CPDOC. DOI
-  Hemeroteca Digital Brasileira e a pesquisa histórica: reflexões sobre teoria e prática. Material para o curso e-história da Educação da UFRN. DOI
-  Dá pra pesquisar o Caribe do Brasil? Reflexões teórico-metodológicas. Material para a mesa promovida pelo Canal da América - 2020-11-30, 17h.</description>
+      <guid>https://ericbrasil.com.br/pt-br/teaching/materials/</guid>
+      <description>Material de apresentações, mesas e palestras Criação, manutenção e divulgação de projetos de História em meios digitais: git, GitHub e o Programming Historian. Material para o Webinar LHUD - FGV/CPDOC. DOI&#xA;Hemeroteca Digital Brasileira e a pesquisa histórica: reflexões sobre teoria e prática. Material para o curso e-história da Educação da UFRN. DOI&#xA;Dá pra pesquisar o Caribe do Brasil? Reflexões teórico-metodológicas. Material para a mesa promovida pelo Canal da América - 2020-11-30, 17h.</description>
     </item>
-    
     <item>
       <title>Aulas e Cursos</title>
-      <link>https://ericbrasiln.github.io/pt-br/teaching/courses/</link>
+      <link>https://ericbrasil.com.br/pt-br/teaching/courses/</link>
       <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://ericbrasiln.github.io/pt-br/teaching/courses/</guid>
-      <description>Sites e apresentações de disciplinas e aulas   Curso: CCLHM0069 - Introdução à História Digital - 2021.1
-  Curso: CCLHM0057 - História da América: colonização e resistência - 2021.1
-  Curso: CCLHM0057 - História da América: colonização e resistência - 2020.1
-  Curso: BHUM0004 - Processos coloniais e a construação da modernidade - 2020.1
-  Curso: Ferramentas Digitais e a pesquisa em Humanidades - Plex (2020)</description>
+      <guid>https://ericbrasil.com.br/pt-br/teaching/courses/</guid>
+      <description>Sites e apresentações de disciplinas e aulas Curso: CCLHM0069 - Introdução à História Digital - 2021.1&#xA;Curso: CCLHM0057 - História da América: colonização e resistência - 2021.1&#xA;Curso: CCLHM0057 - História da América: colonização e resistência - 2020.1&#xA;Curso: BHUM0004 - Processos coloniais e a construação da modernidade - 2020.1&#xA;Curso: Ferramentas Digitais e a pesquisa em Humanidades - Plex (2020)&#xA;Aula: Revolução Mexicana&#xA;Aula: Revolução Cubana</description>
     </item>
-    
   </channel>
 </rss>

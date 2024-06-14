@@ -2,9 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Eric Brasil</title>
-    <link>https://ericbrasiln.github.io/pt-br/tags/</link>
+    <link>https://ericbrasil.com.br/pt-br/tags/</link>
     <description>Recent content in Tags on Eric Brasil</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ericbrasiln.github.io/pt-br/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <atom:link href="https://ericbrasil.com.br/pt-br/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

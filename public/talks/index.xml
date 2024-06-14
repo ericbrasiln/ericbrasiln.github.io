@@ -2,34 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talks on Eric Brasil</title>
-    <link>https://ericbrasiln.github.io/talks/</link>
+    <link>https://ericbrasil.com.br/talks/</link>
     <description>Recent content in Talks on Eric Brasil</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 23 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ericbrasiln.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 23 May 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ericbrasil.com.br/talks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Roundtables and Lectures</title>
-      <link>https://ericbrasiln.github.io/talks/lectures/</link>
+      <link>https://ericbrasil.com.br/talks/lectures/</link>
       <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://ericbrasiln.github.io/talks/lectures/</guid>
-      <description>2022 Criação, manutenção e divulgação de projetos de História em meios digitais: git, GitHub e o Programming Historian. Webinar LHUD - FGV/CPDOC
-DOI
-  Hemeroteca Digital Brasileira e a pesquisa histórica: reflexões sobre teoria e prática. Curso e-história da Educação da UFRN
-DOI
-  2021 SESSÃO ESPECIAL – História Digital - 7ª JORNADA DE PESQUISADORES DA FBN   Web Scraping e a construção de datasets para a pesquisa histórica na era digital: aspectos técnicos, metodológicos e epistemológicos No simpósio temático - História, Arquivos e Arquivamento na era digital, do IIIEPTH</description>
+      <guid>https://ericbrasil.com.br/talks/lectures/</guid>
+      <description>2022 Criação, manutenção e divulgação de projetos de História em meios digitais: git, GitHub e o Programming Historian. Webinar LHUD - FGV/CPDOC&#xA;DOI&#xA;Hemeroteca Digital Brasileira e a pesquisa histórica: reflexões sobre teoria e prática. Curso e-história da Educação da UFRN&#xA;DOI&#xA;2021 SESSÃO ESPECIAL – História Digital - 7ª JORNADA DE PESQUISADORES DA FBN Web Scraping e a construção de datasets para a pesquisa histórica na era digital: aspectos técnicos, metodológicos e epistemológicos No simpósio temático - História, Arquivos e Arquivamento na era digital, do IIIEPTH</description>
     </item>
-    
     <item>
       <title>Video Lessons</title>
-      <link>https://ericbrasiln.github.io/talks/video-lessons/</link>
+      <link>https://ericbrasil.com.br/talks/video-lessons/</link>
       <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://ericbrasiln.github.io/talks/video-lessons/</guid>
-      <description>Full Course &amp;lsquo;Intro to Digital History&amp;rsquo;: 
-Full Course &amp;lsquo;Digital Tools and Research in Humanities. 
-Workshop &amp;lsquo;An introduction to Markdown and its possibilities for teaching and scientific divulgation&amp;rsquo;   </description>
+      <guid>https://ericbrasil.com.br/talks/video-lessons/</guid>
+      <description>Full Course &amp;lsquo;Intro to Digital History&amp;rsquo;: Full Course &amp;lsquo;Digital Tools and Research in Humanities. Workshop &amp;lsquo;An introduction to Markdown and its possibilities for teaching and scientific divulgation&amp;rsquo; </description>
     </item>
-    
   </channel>
 </rss>

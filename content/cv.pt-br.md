@@ -7,6 +7,8 @@ date: "2024-03-15"
 ---
 Professor do curso de História e do Bacharelado Interdisciplinar em Humanidades do Instituto de Humanidades e Letras da Universidade da Integração Internacional da Lusofonia Afro-Brasileira (UNILAB), campus Malês, Bahia (2017 - Atual).
 
+Professor do Mestrado Interdisciplinar em Humanidades Digitais da Universidade Federal Rural do Rio de Janeiro (PPGIHD-UFRRJ).
+
 Coordenador do curso de História da mesma universidade nos anos de 2019 e 2020.
 
 Investigador Visitante no Laboratório de Humanidades Digitais, IHC, FSCH-NOVA, Lisbon, Portugal (2022 - 2023).

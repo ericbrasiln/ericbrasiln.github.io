@@ -8,6 +8,8 @@ date: "2024-03-15"
 
 Professor of the undergraduate courses in History and Humanities at the Institute of Humanities and Languages at the University for the International Integration of Afro-Brazilian Lusophony (IHLM/UNILAB), Malês campus, Bahia, Brazil (2017 - current).
 
+Professor of the Interdisciplinary Master's Degree in Digital Humanities at the Federal Rural University of Rio de Janeiro (PPGIHD-UFRRJ)
+
 Coordinator of the undergraduate course in History at the same institute from 2019 to 2020.
 
 Visiting Researcher at the Digital Humanities Lab, IHC, FSCH-NOVA, Lisbon, Portugal (2022 - 2023).

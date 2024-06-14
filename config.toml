@@ -148,4 +148,4 @@ defaultContentLanguage = 'en'
 
 [services]
   [services.googleAnalytics]
-    id = ""  # Substitua pelo seu ID do Google Analytics
+    id = "G-CHMNDX2GXH"  # Substitua pelo seu ID do Google Analytics

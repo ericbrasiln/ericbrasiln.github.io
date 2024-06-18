@@ -3,15 +3,18 @@ title: Contact
 date: "2022-05-23"
 ---
 
-## Get in touch
+<form method="post" action="https://airform.io/ericbrasiln@proton.me">
+  <label for="name">Full Name <span class="required">*</span></label>
+  <input type="text" id="name" name="name" placeholder="John Doe" required>
 
-<form action="https://airform.io/ericbrasiln@proton.me" method="post">
-  <input type="text" name="name" placeholder="Enter your name">
-  <input type="email" name="email" placeholder="Enter your email">
-  <textarea name="message" placeholder="Enter your message"></textarea>
-  <button>Send</button>
+  <label for="email">Working Mail <span class="required">*</span></label>
+  <input type="email" id="email" name="email" placeholder="john.doe@email.com" required>
+
+  <label for="message">Anything else? <span class="required">*</span></label>
+  <textarea id="message" name="message" placeholder="Message goes here..." required></textarea>
+
+  <button type="submit">Submit</button>
 </form>
-
 
 ## E-mails: 
 

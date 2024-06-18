@@ -3,13 +3,17 @@ title: Contatos
 date: "2022-05-23"
 ---
 
-## Entre em contato
+<form method="post" action="https://airform.io/ericbrasiln@proton.me">
+  <label for="name">Nome Completo <span class="required">*</span></label>
+  <input type="text" id="name" name="name" placeholder="John Doe" required>
 
-<form action="https://airform.io/ericbrasiln@proton.me" method="post">
-  <input type="text" name="name" placeholder="Seu nome">
-  <input type="email" name="email" placeholder="Seu email">
-  <textarea name="message" placeholder="Digite sua mensagem"></textarea>
-  <button>Enviar</button>
+  <label for="email">Email de contato <span class="required">*</span></label>
+  <input type="email" id="email" name="email" placeholder="john.doe@email.com" required>
+
+  <label for="message">Mais alguma cosa? <span class="required">*</span></label>
+  <textarea id="message" name="message" placeholder="Insira sua mensagem..." required></textarea>
+
+  <button type="submit">Enviar</button>
 </form>
 
 ## E-mails: 

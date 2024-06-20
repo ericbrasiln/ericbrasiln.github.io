@@ -3,17 +3,25 @@ title: Contact
 date: "2022-05-23"
 ---
 
-<form method="post" action="https://airform.io/ericbrasiln@proton.me">
-  <label for="name">Full Name <span class="required">*</span></label>
-  <input type="text" id="name" name="name" placeholder="John Doe" required>
+## Get in touch
 
-  <label for="email">Working Mail <span class="required">*</span></label>
-  <input type="email" id="email" name="email" placeholder="john.doe@email.com" required>
+<form method="post" action="https://airform.io/ericbrasiln@proton.me" style="max-width: 600px; margin: auto;">
+  <div style="margin-bottom: 1rem;">
+    <label for="name">Full Name <span style="color: red;">*</span></label>
+    <input type="text" id="name" name="name" placeholder="John Doe" required style="width: 100%; padding: 0.5rem; border-radius: 4px; border: 1px solid;">
+  </div>
 
-  <label for="message">Anything else? <span class="required">*</span></label>
-  <textarea id="message" name="message" placeholder="Message goes here..." required></textarea>
+  <div style="margin-bottom: 1rem;">
+    <label for="email">Working Mail <span style="color: red;">*</span></label>
+    <input type="email" id="email" name="email" placeholder="john.doe@email.com" required style="width: 100%; padding: 0.5rem; border-radius: 4px; border: 1px solid;">
+  </div>
 
-  <button type="submit">Submit</button>
+  <div style="margin-bottom: 1rem;">
+    <label for="message">Anything else? <span style="color: red;">*</span></label>
+    <textarea id="message" name="message" placeholder="Message goes here..." required style="width: 100%; padding: 0.5rem; border-radius: 4px; border: 1px solid; max-width: 100%; min-width: 80%;"></textarea>
+  </div>
+
+  <button type="submit" style="display: block; width: 100px; padding: 0.75rem; background-color: black; color: white; border: none; border-radius: 4px; cursor: pointer;">Submit</button>
 </form>
 
 ## E-mails: 

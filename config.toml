@@ -21,7 +21,7 @@ enableEmoji  = true
   enableSharingButtons = true
   description = "Eric Brasil's website"
   keywords = "homepage, cv, blog, portfolio"
-  images = ["static/img/favicon.ico"]
+  images = [""]
   enableThemeToggle = true
 
   [params.footer]

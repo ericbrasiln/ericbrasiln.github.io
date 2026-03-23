@@ -1,5 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Publications on Eric Brasil</title><link>https://ericbrasil.com.br/tags/publications/</link><description>Recent content in Publications on Eric Brasil</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 08 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ericbrasil.com.br/tags/publications/index.xml" rel="self" type="application/rss+xml"/><item><title>New article about pyHDB tool!</title><link>https://ericbrasil.com.br/blog/post-1-en/</link><pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate><guid>https://ericbrasil.com.br/blog/post-1-en/</guid><description>On the last day of 2022, the new issue of the História da Historiografia journal came out with an article of mine called &amp;ldquo;pyHDB - Ferramenta Heurística para a Hemeroteca Digital Brasileira: utilizando técnicas de web scraping para a pesquisa em História&amp;rdquo;.
-It is my darling!
-In the article, I present pyHDB, a methodological support tool for research in the Brazilian Digital Newspaper Library, of the National Library. I analyze its relationship with the theory, methodology, and epistemology of history, focusing on the selection, collection, organization, and criticism of sources.</description></item><item><title>Novo artigo sobre a ferramenta pyHDB!</title><link>https://ericbrasil.com.br/blog/pyhdb-pt/</link><pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate><guid>https://ericbrasil.com.br/blog/pyhdb-pt/</guid><description>No último dia de 2022 saiu novo número da Revista História da Historiografia com um artigo meu chamado &amp;ldquo;pyHDB - Ferramenta Heurística para a Hemeroteca Digital Brasileira: utilizando técnicas de web scraping para a pesquisa em História&amp;rdquo;.
-É meu xodó!
-No artigo apresento a pyHDB, ferramenta de suporte metodológico para a pesquisa na Hemeroteca Digital Brasileira, da Biblioteca Nacional. Analiso sua relação com teoria, metodologia e epistemologia da história, focando na seleção, coleta, organização e critica das fontes.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Eric Brasil</title>
+    <link>https://ericbrasil.com.br/tags/publications/</link>
+    <description>Recent content in Publications on Eric Brasil</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ericbrasil.com.br/tags/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New article about pyHDB tool!</title>
+      <link>https://ericbrasil.com.br/blog/post-1-en/</link>
+      <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://ericbrasil.com.br/blog/post-1-en/</guid>
+      <description>&lt;img src=&#34;https://ericbrasil.com.br/img/pyhdb.png&#34; alt=&#34;logo pyHDB&#34; style=&#34;float: left; ZgotmplZ&#34; /&gt;&#xA;&#xA;&lt;p&gt;On the last day of 2022, the new issue of the &lt;a href=&#34;https://www.historiadahistoriografia.com.br/revista/issue/view/45&#34;&gt;História da Historiografia&lt;/a&gt; journal came out with an article of mine called &lt;a href=&#34;https://doi.org/10.15848/hh.v15i40.1904&#34;&gt;&amp;ldquo;pyHDB - Ferramenta Heurística para a Hemeroteca Digital Brasileira: utilizando técnicas de web scraping para a pesquisa em História&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;It is my darling!&lt;/p&gt;&#xA;&lt;p&gt;In the article, I present pyHDB, a methodological support tool for research in the &lt;a href=&#34;http://memoria.bn.br/hdb/periodico.aspx&#34;&gt;Brazilian Digital Newspaper Library&lt;/a&gt;, of the National Library. I analyze its relationship with the theory, methodology, and epistemology of history, focusing on the selection, collection, organization, and criticism of sources.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Novo artigo sobre a ferramenta pyHDB!</title>
+      <link>https://ericbrasil.com.br/blog/pyhdb-pt/</link>
+      <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://ericbrasil.com.br/blog/pyhdb-pt/</guid>
+      <description>&lt;img src=&#34;https://ericbrasil.com.br/img/pyhdb.png&#34; alt=&#34;logo pyHDB&#34; style=&#34;float: left; ZgotmplZ&#34; /&gt;&#xA;&#xA;&lt;p&gt;No último dia de 2022 saiu novo número da Revista &lt;a href=&#34;https://www.historiadahistoriografia.com.br/revista/issue/view/45&#34;&gt;História da Historiografia&lt;/a&gt; com um artigo meu chamado &lt;a href=&#34;https://doi.org/10.15848/hh.v15i40.1904&#34;&gt;&amp;ldquo;pyHDB - Ferramenta Heurística para a Hemeroteca Digital Brasileira: utilizando técnicas de web scraping para a pesquisa em História&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;É meu xodó!&lt;/p&gt;&#xA;&lt;p&gt;No artigo apresento a pyHDB, ferramenta de suporte metodológico para a pesquisa na &lt;a href=&#34;http://memoria.bn.br/hdb/periodico.aspx&#34;&gt;Hemeroteca Digital Brasileira&lt;/a&gt;, da Biblioteca Nacional. Analiso sua relação com teoria, metodologia e epistemologia da história, focando na seleção, coleta, organização e critica das fontes.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

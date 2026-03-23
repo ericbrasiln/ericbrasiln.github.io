@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects on Eric Brasil</title><link>https://ericbrasil.com.br/pt-br/projects/</link><description>Recent content in Projects on Eric Brasil</description><generator>Hugo</generator><language>pt-br</language><lastBuildDate>Thu, 24 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ericbrasil.com.br/pt-br/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>Projetos de pesquisa concluídos</title><link>https://ericbrasil.com.br/pt-br/projects/completed/</link><pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate><guid>https://ericbrasil.com.br/pt-br/projects/completed/</guid><description>Métodos, ferramentas e repositórios digitais em português: um framework para a pesquisa em periódicos digitalizados Summary: O objetivo do projeto é analisar a operação historiográfica relacionada ao processo de selecionar, recolher e organizar fontes primárias por meio de ferramentas e dados digitais. Terá como foco repositórios e interfaces gráficas que permitem o acesso a periódicos da imprensa de língua portuguesa digitalizados, com destaque para a Hemeroteca Digital Brasileira e a coleção de periódicos da Biblioteca Nacional Digital de Portugal.</description></item><item><title>Projetos de pesquisa em andamento</title><link>https://ericbrasil.com.br/pt-br/projects/in-progress/</link><pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate><guid>https://ericbrasil.com.br/pt-br/projects/in-progress/</guid><description>Ecossistema de desinformação e propaganda computacional no aplicativo Telegram Descrição: Este projeto propõe estabelecer uma estrutura de mapeamento e análise multi-método de redes de extrema -direita no Telegram, onde recentemente observou-se um aumento no fluxo de usuários e na criação de grupos e canais. Visando monitorar possíveis atividades de propaganda computacional e operações coordenadas de influência ao longo dos próximos dois anos, o projeto combina análises computacionais baseadas na abordagem da linguística de corpus (LC) e técnicas de processamento de linguagem natural (NLP) com uma abordagem qualitativa mista de análise de discurso e etnografia online.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Eric Brasil</title>
+    <link>https://ericbrasil.com.br/pt-br/projects/</link>
+    <description>Recent content in Projects on Eric Brasil</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 22 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ericbrasil.com.br/pt-br/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projetos de pesquisa concluídos</title>
+      <link>https://ericbrasil.com.br/pt-br/projects/completed/</link>
+      <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://ericbrasil.com.br/pt-br/projects/completed/</guid>
+      <description>&lt;h2 id=&#34;história-em-disputa-revisionismo-histórico-nos-ecossistemas-de-desinformação-do-telegram-2018-2024&#34;&gt;História em disputa: revisionismo histórico nos ecossistemas de desinformação do Telegram (2018-2024)&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Descrição&lt;/strong&gt;: O projeto examina como grupos de extrema-direita no Brasil utilizam o aplicativo de mensagens Telegram para mobilizar e propagar narrativas de revisionismo histórico e desinformação, enfocando nas implicações para a democracia e a sociedade. A pesquisa visa identificar as estratégias utilizadas por grupos extremistas para manipular a história e disseminar desinformação, examinando as consequências destas práticas na percepção pública e políticas democráticas. O método adotado combina técnicas de análise computacional, como processamento de linguagem natural e análise de redes sociais, com métodos qualitativos, incluindo análise de conteúdo e etnografia digital.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projetos de pesquisa em andamento</title>
+      <link>https://ericbrasil.com.br/pt-br/projects/in-progress/</link>
+      <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://ericbrasil.com.br/pt-br/projects/in-progress/</guid>
+      <description>&lt;h2 id=&#34;ecossistemas-multiplataforma-e-ataques-à-integridade-da-informação-em-saúde-impactos-padrões-de-disseminação-e-estratégias-de-mitigação&#34;&gt;Ecossistemas multiplataforma e ataques à integridade da informação em saúde: impactos, padrões de disseminação e estratégias de mitigação&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Descrição&lt;/strong&gt;: A disseminação de desinformação comprometeu a adesão a vacinas e medidas de saúde pública, alimentando a desconfiança na ciência e dificultando decisões em saúde. O projeto busca desenvolver estratégias de monitoramento e combate à desinformação em saúde, com foco na cobertura vacinal infantil. Serão utilizadas abordagens quantitativas e qualitativas, como análise de redes complexas, mineração de textos, Machine Learning e modelagem de agentes, além de análise linguística multimodal. Um modelo preditivo será seguido para avaliação do impacto da desinformação.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

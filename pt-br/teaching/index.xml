@@ -1,13 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Teachings on Eric Brasil</title><link>https://ericbrasil.com.br/pt-br/teaching/</link><description>Recent content in Teachings on Eric Brasil</description><generator>Hugo</generator><language>pt-br</language><lastBuildDate>Fri, 30 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ericbrasil.com.br/pt-br/teaching/index.xml" rel="self" type="application/rss+xml"/><item><title>Ferramentas Digitais</title><link>https://ericbrasil.com.br/pt-br/teaching/tools/</link><pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate><guid>https://ericbrasil.com.br/pt-br/teaching/tools/</guid><description>Repositório Digital das Humanidades - REDHBR Acesse aqui a página do REDHBR!
-O REDHBR agrega códigos para coleta automatizada de dados referentes à produção intelectual dos principais congressos e eventos das áreas das humanidades no Brasil.
-Os scripts, as bases de dados e todos os documentos estão disponíveis e poderão ser baixados com apenas um clique.
-pyHDB - Ferramenta heurística para a Hemeroteca Digital Brasileira Acesse aqui a ferramenta
-Ferramenta de auxílio metodológico para pesquisa na Hemeroteca Digital Brasileira da Biblioteca Nacional.</description></item><item><title>Apresentações, oficinas, minicursos, tutoriais</title><link>https://ericbrasil.com.br/pt-br/teaching/materials/</link><pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate><guid>https://ericbrasil.com.br/pt-br/teaching/materials/</guid><description>Material de apresentações, mesas e palestras Criação, manutenção e divulgação de projetos de História em meios digitais: git, GitHub e o Programming Historian. Material para o Webinar LHUD - FGV/CPDOC. DOI
-Hemeroteca Digital Brasileira e a pesquisa histórica: reflexões sobre teoria e prática. Material para o curso e-história da Educação da UFRN. DOI
-Dá pra pesquisar o Caribe do Brasil? Reflexões teórico-metodológicas. Material para a mesa promovida pelo Canal da América - 2020-11-30, 17h.</description></item><item><title>Aulas e Cursos</title><link>https://ericbrasil.com.br/pt-br/teaching/courses/</link><pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate><guid>https://ericbrasil.com.br/pt-br/teaching/courses/</guid><description>Sites e apresentações de disciplinas e aulas Curso: CCLHM0069 - Introdução à História Digital - 2021.1
-Curso: CCLHM0057 - História da América: colonização e resistência - 2021.1
-Curso: CCLHM0057 - História da América: colonização e resistência - 2020.1
-Curso: BHUM0004 - Processos coloniais e a construação da modernidade - 2020.1
-Curso: Ferramentas Digitais e a pesquisa em Humanidades - Plex (2020)
-Aula: Revolução Mexicana
-Aula: Revolução Cubana</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teachings on Eric Brasil</title>
+    <link>https://ericbrasil.com.br/pt-br/teaching/</link>
+    <description>Recent content in Teachings on Eric Brasil</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 30 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ericbrasil.com.br/pt-br/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ferramentas Digitais</title>
+      <link>https://ericbrasil.com.br/pt-br/teaching/tools/</link>
+      <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://ericbrasil.com.br/pt-br/teaching/tools/</guid>
+      <description>&lt;h2 id=&#34;repositório-digital-das-humanidades---redhbr&#34;&gt;&lt;strong&gt;Repositório Digital das Humanidades - REDHBR&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;img src=&#34;https://ericbrasil.com.br/img/redhbr.jpg&#34; alt=&#34;logo redhbr&#34; style=&#34;float: left; ZgotmplZ&#34; /&gt;&#xA;&#xA;&lt;p&gt;&lt;a href=&#34;https://labhdufba.github.io/redhbr/&#34;&gt;&lt;strong&gt;Acesse aqui a página do REDHBR!&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;O &lt;strong&gt;REDHBR&lt;/strong&gt; agrega códigos para coleta automatizada de dados referentes à produção intelectual dos principais congressos e eventos das áreas das humanidades no Brasil.&lt;/p&gt;&#xA;&lt;p&gt;Os scripts, as bases de dados e todos os documentos estão disponíveis e poderão ser baixados com apenas um clique.&lt;/p&gt;&#xA;&lt;h2 id=&#34;pyhdb---ferramenta-heurística-para-a-hemeroteca-digital-brasileira&#34;&gt;pyHDB - Ferramenta heurística para a Hemeroteca Digital Brasileira&lt;/h2&gt;&#xA;&lt;img src=&#34;https://ericbrasil.com.br/img/pyhdb.png&#34; alt=&#34;logo pyhdb&#34; style=&#34;float: left; ZgotmplZ&#34; /&gt;&#xA;&#xA;&lt;p&gt;&lt;a href=&#34;https://ericbrasiln.github.io/pyHDB/&#34;&gt;&lt;strong&gt;Acesse aqui a ferramenta&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Apresentações, oficinas, minicursos, tutoriais</title>
+      <link>https://ericbrasil.com.br/pt-br/teaching/materials/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://ericbrasil.com.br/pt-br/teaching/materials/</guid>
+      <description>&lt;h2 id=&#34;material-de-apresentações-mesas-e-palestras&#34;&gt;Material de apresentações, mesas e palestras&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://ericbrasiln.github.io/hdfgv/&#34;&gt;Criação, manutenção e divulgação de projetos de História em meios digitais: git, GitHub e o Programming Historian&lt;/a&gt;. Material para o Webinar LHUD - FGV/CPDOC. &lt;a href=&#34;https://zenodo.org/record/6566754&#34;&gt;DOI&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://ericbrasiln.github.io/hdufrn/&#34;&gt;Hemeroteca Digital Brasileira e a pesquisa histórica: reflexões sobre teoria e prática&lt;/a&gt;. Material para o curso e-história da Educação da UFRN. &lt;a href=&#34;https://zenodo.org/record/6568346&#34;&gt;DOI&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://ericbrasiln.github.io/caribe/&#34;&gt;Dá pra pesquisar o Caribe do Brasil? Reflexões teórico-metodológicas&lt;/a&gt;. Material para a mesa promovida pelo &lt;a href=&#34;https://youtu.be/hMX8ITv40K8&#34;&gt;Canal da América&lt;/a&gt; - 2020-11-30, 17h.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Aulas e Cursos</title>
+      <link>https://ericbrasil.com.br/pt-br/teaching/courses/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://ericbrasil.com.br/pt-br/teaching/courses/</guid>
+      <description>&lt;h2 id=&#34;sites-e-apresentações-de-disciplinas-e-aulas&#34;&gt;Sites e apresentações de disciplinas e aulas&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Curso: &lt;a href=&#34;https://ericbrasiln.github.io/intro-historia-digital/&#34;&gt;CCLHM0069 - Introdução à História Digital - 2021.1&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Curso: &lt;a href=&#34;https://cclhm0057.netlify.app/&#34;&gt;CCLHM0057 - História da América: colonização e resistência - 2021.1&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Curso: &lt;a href=&#34;https://ericbrasiln.github.io/cclhm0057_ihl/&#34;&gt;CCLHM0057 - História da América: colonização e resistência - 2020.1&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Curso: &lt;a href=&#34;https://ericbrasiln.github.io/bhum0004/&#34;&gt;BHUM0004 - Processos coloniais e a construação da modernidade - 2020.1&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Curso: &lt;a href=&#34;https://ericbrasiln.github.io/ferramentas_digitais_UNILAB/&#34;&gt;Ferramentas Digitais e a pesquisa em Humanidades - Plex (2020)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Aula: &lt;a href=&#34;https://ericbrasiln.github.io/aula-rev-mexicana/&#34;&gt;Revolução Mexicana&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Aula: &lt;a href=&#34;https://ericbrasiln.github.io/aula-rev-cubana/&#34;&gt;Revolução Cubana&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

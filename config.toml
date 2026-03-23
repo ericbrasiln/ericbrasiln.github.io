@@ -35,7 +35,7 @@ enableEmoji  = true
     ]
 
   [params.portrait]
-    path     = "/img/eric-bg.png"
+    path     = "/img/perfil.jpg"
     alt      = "Portrait"
     maxWidth = "180px"
 
@@ -43,11 +43,8 @@ enableEmoji  = true
   name = "github"
   url = "https://github.com/ericbrasiln"
 [[params.social]]
-  name = "mastodon"
-  url = "https://hcommons.social/@ericbrasiln"
-[[params.social]]
-  name = "twitter"
-  url = "https://twitter.com/ericbrasiln"
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/ericbrasiln"
 [[params.social]]
   name = "email"
   url = "contact/"

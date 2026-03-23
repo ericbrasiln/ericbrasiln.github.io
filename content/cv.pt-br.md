@@ -5,40 +5,29 @@ description: >
   Currículo resumido.
 date: "2024-03-15"
 ---
-Professor do curso de História e do Bacharelado Interdisciplinar em Humanidades do Instituto de Humanidades e Letras da Universidade da Integração Internacional da Lusofonia Afro-Brasileira (UNILAB), campus Malês, Bahia (2017 - Atual).
+Bolsista de Desenvolvimento Tecnológico Industrial do CNPq – Nível A.
 
-Professor do Mestrado Interdisciplinar em Humanidades Digitais da Universidade Federal Rural do Rio de Janeiro (PPGIHD-UFRRJ).
+Professor da Licenciatura em História e do Bacharelado Interdisciplinar em Humanidades do Instituto de Humanidades e Letras da Universidade da Integração Internacional da Lusofonia Afro-Brasileira (IHLM-UNILAB), campus dos Malês, Bahia (2017 - Atual).
 
-Coordenador do curso de História da mesma universidade nos anos de 2019 e 2020.
+Professor permanente do Programa de Pós-Graduação Interdisciplinar em Humanidades Digitais da Universidade Federal Rural do Rio de Janeiro (PPGIHD-UFRRJ).
 
-Investigador Visitante no Laboratório de Humanidades Digitais, IHC, FSCH-NOVA, Lisbon, Portugal (2022 - 2023).
+Investigador Visitante no Laboratório de Humanidades Digitais, IHC, FSCH-NOVA, Lisboa, Portugal (2022 - 2023).
 
 Autor do livro **A Corte em Festa**: experiências negras em carnavais do Rio de Janeiro (1879-1888) (Editora Prismas, 2016).
 
-Doutor (2016) e Mestre (2011) pelo Programa de Pós­-Graduação em História Social da Universidade Federal Fluminense.
+Doutor (2016) e Mestre (2011) em História Social pela Universidade Federal Fluminense.
 
 Vencedor do primeiro e segundo lugares no Concurso de Monografias Silvio Romero de 2011 e 2020 respectivamente, promovido pelo Centro Nacional de Folclore e Cultura Popular.
 
-Editor-chefe do [Programming Historian](https://programminghistorian.org/pt/) em português.
+Editor-chefe do [Programming Historian em português](https://programminghistorian.org/pt/).
 
-Pesquisador senior do [Laboratório de Humanidades Digitais da UFBA](http://labhd.ufba.br/).
+Pesquisador do [Laboratório de Humanidades Digitais da UFBA](http://labhd.ufba.br/).
 
-Membro fundador do GT Nacional Emancipações e Pós-­Abolição da Anpuh.
+Membro fundador do GT Nacional Emancipações e Pós-Abolição da Anpuh.
 
-Tem experiência na área de História Social da Cultura, Humanidades e História Digital, Abolição da escravidão e o Pós-Abolição no Brasil e no Caribe, atuando principalmente nos seguintes temas: 
+Tem experiência na área de História Social da Cultura, Humanidades Digitais e História Digital, com ênfase em abolição e pós-abolição no Brasil e no Caribe, carnaval e cidadania, arquivos digitais, métodos computacionais aplicados à pesquisa histórica e uso de modelos de linguagem de grande escala (LLMs) e arquiteturas RAG na pesquisa em Humanidades.
 
-- Carnaval
-- Cidadania
-- História Transnacional
-- Diáspora Africana
-- Pós­-Abolição
-- História das Afro-Américas
-- Hemeroteca digitais
-- Métodos de pesquisa digital
-- Linguagens de programação para pesquisa em História
-- Web scraping.
-
-Foi professor de ensino fundamental, médio e pré­-vestibular no Rio de Janeiro entre 2007 e 2017. 
+Foi professor de ensino fundamental, médio e pré-vestibular no Rio de Janeiro entre 2007 e 2017.
 
 ## Formação acadêmica/titulação
 

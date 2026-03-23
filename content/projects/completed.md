@@ -1,59 +1,84 @@
 ---
 title: Completed research projects
-date: "2022-02-24"
+date: "2026-03-22"
 ---
-## Métodos, ferramentas e repositórios digitais em português: um framework para a pesquisa em periódicos digitalizados
 
-**Summary**: O objetivo do projeto é analisar a operação historiográfica relacionada ao processo de selecionar, recolher e organizar fontes primárias por meio de ferramentas e dados digitais. Terá como foco repositórios e interfaces gráficas que permitem o acesso a periódicos da imprensa de língua portuguesa digitalizados, com destaque para a Hemeroteca Digital Brasileira e a coleção de periódicos da Biblioteca Nacional Digital de Portugal. Como resultado pretende-se produzir um framework (enquadramento dos processos de pesquisa) digital que englobe as etapas da pesquisa histórica para esse tipo de fonte. O framework reunirá uma biblioteca de referências bibliográficas; ferramentas para registro metodológico e organização dos dados coletados; documentação e tutoriais dos acervos e suas interfaces gráficas, das ferramentas para reconhecimento ótico de caracteres e reconhecimento automatizado de layout voltados para documentos históricos. Acesse o produto final da pesquisa [aqui](https://ericbrasiln.github.io/hemdig-framework/).
+## History in dispute: historical revisionism in Telegram's disinformation ecosystems (2018-2024)
 
-Situação: Concluído; Natureza: Pesquisa.
+**Description**: The project examines how far-right groups in Brazil use the Telegram messaging app to mobilize and propagate historical revisionism and disinformation narratives, focusing on implications for democracy and society. The research identifies strategies used by extremist groups to manipulate history and disseminate disinformation, examining the consequences of these practices on public perception and democratic policies. The methodology combines computational analysis techniques, such as natural language processing and social network analysis, with qualitative methods, including content analysis and digital ethnography.
 
-Integrantes: Eric Brasil Nepomuceno - Coordenador / Daniel Alves - Integrante
+Status: Completed (2024-2025); Nature: Research.
+Members: Eric Brasil Nepomuceno - Coordinator / Eric Francis Maia - Member / Leonardo Fernandes Nascimento - Member / Danielle Sanches - Member.
+
+## Digital democracy: analysis of Telegram's disinformation ecosystems during the 2022 Brazilian electoral process
+
+**Description**: The project aimed to map multiplatform ecosystems of far-right Brazilian groups on Telegram during the 2022 Brazilian electoral process. The research assumed a mixed-methods perspective, combining computational data analysis with socioanthropological analyses.
+
+Status: Completed (2022-2023); Nature: Research.
+Members: Eric Brasil Nepomuceno - Member / Leonardo Fernandes Nascimento - Coordinator.
+
+## Decoloniality in children's and youth literature
+
+**Description**: The project is part of the study of the history of school editions and proposes to conduct a survey and cataloging of children's and youth literary production over the last four decades, focused on curricular and epistemic innovations emerging from the context of laws 10.639/03 and 11.645/08. The temporal scope covers 1982 to 2022, during which this emerging literature stands out in Brazilian editorial history, making African, Afro-Brazilian, and indigenous cultures visible and positive.
+
+Status: Completed (2022-2024); Nature: Research.
+Members: Eric Brasil Nepomuceno - Member / Lucilene Rezende Alcanfor - Coordinator.
+
+## Disinformation ecosystem and computational propaganda in the Telegram app
+
+**Description**: This project established a multi-method mapping and analysis framework of far-right networks on Telegram, combining computational analyses based on corpus linguistics (CL) and natural language processing (NLP) techniques with a mixed qualitative approach of discourse analysis and online ethnography. The project also included a complementary qualitative analysis of the semiotic-discursive patterns of circulated content.
+
+Status: Completed (2020-2022); Nature: Research.
+Members: Leonardo Fernandes Nascimento - Coordinator / Eric Brasil Nepomuceno - Member / Paulo F. C. Fonseca - Member / Leticia Maria Costa da Nóbrega Cesarino - Member / Vítor Mussa Tavares Gomes - Member / Rosana Moore - Member.
+
+Funding: CNPq.
+
+## Methods, digital tools and repositories in Portuguese: a framework for research in digitized periodicals
+
+**Summary**: The project analyzes the historiographical operation related to the process of selecting, collecting, and organizing primary sources through digital tools and data. It focuses on repositories and graphical interfaces that allow access to digitized Portuguese-language press periodicals, with emphasis on the Hemeroteca Digital Brasileira and the periodical collection of the Biblioteca Nacional Digital de Portugal. The result is a digital framework encompassing the stages of historical research for this type of source. Access the final research product [here](https://ericbrasiln.github.io/hemdig-framework/).
+
+Status: Completed (2021-2023); Nature: Research.
+Members: Eric Brasil Nepomuceno - Coordinator / Daniel Alves - Member.
+
+## Maintaining, creating and publishing digital history projects: the case of Programming Historian
+
+**Summary**: This project aimed to analyze the Programming Historian guidelines, structure, and workflow, both on the website and in the organization's GitHub repositories. As a result, reports were produced about the current state of the technical architecture of the *PH* and its documentation, as well as a set of recommendations for corrections and improvements, mainly in the Portuguese version, and an original lesson in Portuguese. The research was carried out at the Laboratory of Digital Humanities of the Institute of Contemporary History of Universidade Nova de Lisboa (IHC, NOVA/FCSH), under the supervision of Daniel Alves.
+
+Status: Completed (2022-2023); Nature: Research.
 
 ## Digital History: digital archives and tools for research and teaching
 
-**Descrição**: O projeto 'História Digital: acervos e ferramentas digitais para pesquisa e ensino' pretende promover o debate sobre os impactos teórico-metodológicos para o ofício do historiador e do professor de história gerado pelo avanço irrefreável tanto dos acervos digitais de fontes primárias quanto das ferramentas digitais para pesquisa, escrita e ensino da disciplina. Buscamos elaborar acervos de repositórios de fontes digitais on-line disponíveis para pesquisa e refletir sobre suas implicações para História e seu ensino no Brasil, mais especificamente no curso de licenciatura em História na Unilab, campus dos Malês.
+**Description**: The project promoted debate on the theoretical-methodological impacts for the historian and history teacher generated by the unstoppable advance of both digital archives of primary sources and digital tools for research, writing, and teaching. It aimed to build collections of online digital source repositories available for research and reflect on their implications for History and its teaching in Brazil.
 
-Situação: Concluído; Natureza: Pesquisa.
-Alunos envolvidos: Graduação: uma bolsista Pibic.
-
-
-## Maintaining, creating and publishing digital history projects: the case of Programming Historian.
-
-**Summary**: This project aims to analyze the Programming Historian guidelines, structure, and workflow, both on the website and in the organization's GitHub repositories. As a result, will be produced reports about the current state of the technical architecture of the *PH* and its documentation, as well as a set of recommendations for the correction of errors and some improvements, mainly in portuguese version, and a original lesson in portuguese. The research is carried out within the scope of the Laboratory of Digital Humanities of the Institute of Contemporary History of Universidade Nova de Lisboa (IHC, NOVA/FCSH), under the supervision of Daniel Alves.
-
+Status: Completed (2020-2021); Nature: Research.
+Students involved: Undergraduate: one PIBIC grant holder.
 
 ## Post-Abolition: meanings, uses and academic publications (2004-2019)
 
-**Descrição**: Esse projeto tem como objetivo caracterizar a produção acadêmica sobre o Pós-Abolição no Brasil entre 2004 e 2019. Buscamos analisar as principais temáticas, recortes cronológicos e espaciais, assim como as instituições de ensino e as revistas acadêmicas que têm produzido e publicado pesquisas sobre esse campo de estudos no Brasil desde a publicação do artigo ?O pós-abolição como problema histórico: Balanços e perspectivas? de Ana Rios e Hebe Mattos em 2004 até a Anpuh Nacional de 2019, onde o GT Emancipações e Pós-Abolição contou com o maior número de inscritos, somando os quatro simpósios temáticos vinculados a ele. Esses objetivos serão alcançados através da utilização de ferramentas digitais de pesquisa, análise e visualização de dados, produzindo reflexões historiográficos, mas também contribuindo na produção de ferramentas, scripts, dados e gráficos digitais de suporte teórico e metodológico para a pesquisa em História. Primeiramente, através de scripts escritos com a linguagem de programação R ou Python3 realizaremos a raspagem (web scraping) de duas bases de dados: 1) artigos acadêmicos de revistas de História disponibilizadas na plataforma Scielo; 2) Anais da Anpuh entre 2009 e 2019. Os dados coletados serão codificados e organizados com o Atlas.ti 8, um software de apoio à análise de dados qualitativos (computer assisted qualitative data analysis software ? CAQDAS). Após a codificação, todos os artigos e papers que utilizarem o termo Pós-Abolição serão analisados e um questionário qualitativo (com o app Sphinx) será preenchido, alimentando um banco de dados. Produziremos, por conseguinte, uma avaliação historiográfica da última década sobre os usos, sentidos e amplitude do termo Pós-Abolição nas produções acadêmicas, sua presença e impacto na associação nacional de História, além de gerarmos uma biblioteca de referências, um banco de dados e um conjunto de gráficos dinâmicos para visualização, destacando as relações políticas e sociais de seus uso.
+**Description**: This project characterized academic production on Post-Abolition in Brazil between 2004 and 2019, analyzing the main themes, chronological and spatial cuts, as well as educational institutions and academic journals that have produced and published research on this field of study. Digital research, analysis, and data visualization tools were used, producing historiographical reflections and contributing to the production of tools, scripts, data, and digital graphs.
 
-Situação: Concluído; Natureza: Pesquisa.
-Alunos envolvidos: Graduação: uma bolsista Pibic/Unilab.
+Status: Completed (2019-2020); Nature: Research.
+Students involved: Undergraduate: one PIBIC/Unilab grant holder.
 
-## Black Performances in São Francisco do Conde1s Carnival, BA, in Post-Abolition.
+## Black Performances in São Francisco do Conde's Carnival, BA, in Post-Abolition
 
-**Descrição**: Pretende-se analisar as experiências negras de mobilização social e combate ao racismo através de práticas, manifestações, instituições e associações culturais carnavalescas na cidade de São Francisco do Conde, Bahia no Pós-Abolição. Tal perspectiva busca investigar os sentidos, estratégias e dimensões de experiências afro-americanas, formadas a partir da vivência da diáspora, das múltiplas formas de racismo e racialização e da construção de identidades frente a esses contextos. 
+**Description**: The project analyzed Black experiences of social mobilization and anti-racism through practices, manifestations, institutions, and cultural carnival associations in the city of São Francisco do Conde, Bahia in the Post-Abolition period. It aimed to develop and enhance the research skills of young Unilab students, promoting reflections on identities, citizenship, memory, and the history of racism and anti-racism in Brazil and the Afro-Americas.
 
-Nesse sentido, o projeto visa desenvolver e potencializar as habilidades de pesquisa de jovens estudantes da Unilab, Malês, promovendo reflexões sobre identidades, cidadania, memória, história do racismo e do antirracismo no Brasil e nas Afro-Américas. Assim como a coleta, tratamento e análise de fontes primárias, secundárias e bibliografia referente a tais debates. 
+Status: Completed (2018-2019); Nature: Research.
+Students involved: Undergraduate: two PIBIC grant holders.
 
-Situação: Concluído (2019-2020); Natureza: Pesquisa.
-Alunos envolvidos: Graduação: dois bolsistas PIBIC.
+## Which Americas? A study of Latin American and Caribbean History productions in Brazil using CAQDAS software – between 1991 and 2018
 
-### Quais Américas? Um estudo das produções de História da América Latina e Caribe no Brasil utilizando softwares de apoio a análise de dados qualitativos (CAQDAS) – entre 1991 e 2018
+**Description**: This project characterized academic production on Latin American and Caribbean History in Brazil between 1991 and 2018, analyzing main themes, chronological and spatial cuts, as well as educational institutions and academic journals. It used CAQDAS software (especially R for webscraping of history journals on the Scielo platform, and Atlas.ti for coding and analysis) to build a detailed overview of publications on Latin America and the Caribbean.
 
-**Descrição**: Esse projeto tem como objetivo principal caracterizar a produção acadêmica de História da América Latina e do Caribe no Brasil entre 1991 e 2018. Num primeiro momento, buscamos analisar as principais temáticas, recortes cronológicos e espaciais, assim como as instituições de ensino e as revistas acadêmicas que têm produzido e publicado pesquisas sobre essas regiões no Brasil desde a fundação do Mercosul em 1991. Em seguida, pretendemos analisar as pesquisas sobre afro-américas no interior desse conjunto mais amplo de dados. Esses objetivos serão alcançados através da utilização dos softwares de apoio a análise de dados qualitativos (computer assisted qualitative data analysis software – CAQDAS), especialmente o R para webscraping de revistas de história da plataforma Scielo, e o Atlas.ti para a codificação e análise dos dados obtidos. Como resultado, buscamos construir um panorama detalhado das publicações sobre América Latina e Caribe, com espacial aprofundamento naquelas que versam sobre as múltiplas nuances das experiências de homens e mulheres negras nessas regiões, na forma de artigos científicos; um banco de dados público com as referências bibliográficas comentadas e codificadas para buscas por temas, região, período, entre outras entradas possíveis; e um mapa geral apresentando essas pesquisas localizadas no espaço.
+Status: Completed (2017-2019); Nature: Research.
+Students involved: Undergraduate: one PIBIC grant holder.
 
-Situação: Concluído (2018-2019); Natureza: Pesquisa.
-Alunos envolvidos: Graduação: um bolsista PIBIC.
+## Music, race and colonialism in the Caribbean: Black experiences in Trinidad and Tobago (c. 1900-1920)
 
-## Música, raça e colonialismo no Caribe: experiências negras em Trinidad e Tobago (cc. 1900-1920)
+**Description**: This project investigated the experiences of Black subjects in the British colony of Trinidad and Tobago, in the Caribbean, between the 1900s and 1910s, analyzing their public mobilizations, performances, and formation of carnival associations in contact with different spheres of power. It aimed to make available a commented bibliography on Black culture, music and performance, and colonialism in the Caribbean, as well as a database produced from colonial documentation and periodicals.
 
-**Descrição**: Este projeto pretende investigar as experiências de sujeitos negros na colônia britânica de Trinidad e Tobago, no Caribe, entre as décadas de 1900 e 1910, através da análise de suas mobilizações públicas, performances e formação de associações carnavalescas em contato com diferentes esferas de poder. Essa estratégia nos permite caracterizar e compreender os sentidos e possibilidades de ação de homens e mulheres negras num contexto de dominação colonial numa sociedade pós-abolição. Pretende-se analisar suas relações – de conflito e aliança – com as forças coloniais e autoridades policiais, com a imprensa, grupos dominantes e com seus pares. Através da performance carnavalesca, com suas músicas, danças, fantasias e associações – que funcionavam ao longo de todo ano – poderemos compreender os termos em disputa em torno da cidadania, das tensões raciais, do colonialismo – e suas relações de trabalho, controle e violência – assim como da modernidade presentes na sociedade de Trinidad e Tobago entre o final do século XIX e o final da Primeira Guerra Mundial.
+[Access the project website!](https://afroamericas.wixsite.com/site/musica)
 
-Como resultado, este projeto se propõe a disponibilizar para a comunidade acadêmica da Unilab uma bibliografia comentada acerca da cultura negra, música e performance e colonialismo no Caribe, assim como um banco de dados produzido a partir da documentação colonial e outro dos periódicos, contendo informações sobre a história social da cultura de Trinidad e Tobago, colaborando para o desenvolvimento de novas pesquisas na área de História da América – que visa ser consolidada no campus dos Malês a partir desse projeto.
-
-[Acesse o site do projeto!](https://afroamericas.wixsite.com/site/musica)
-
-Situação: Concluído (2017-2019); Natureza: Pesquisa.
-Alunos envolvidos: Graduação: um bolsista PIBIC.
-
+Status: Completed (2012-2016); Nature: Research.
+Students involved: Undergraduate: one PIBIC grant holder.

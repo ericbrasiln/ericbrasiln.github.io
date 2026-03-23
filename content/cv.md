@@ -6,38 +6,27 @@ description: >
 date: "2024-03-15"
 ---
 
+CNPq DTI-A (Industrial Technological Development) scholarship holder.
+
 Professor of the undergraduate courses in History and Humanities at the Institute of Humanities and Languages at the University for the International Integration of Afro-Brazilian Lusophony (IHLM/UNILAB), Malês campus, Bahia, Brazil (2017 - current).
 
-Professor of the Interdisciplinary Master's Degree in Digital Humanities at the Federal Rural University of Rio de Janeiro (PPGIHD-UFRRJ)
-
-Coordinator of the undergraduate course in History at the same institute from 2019 to 2020.
+Permanent Professor of the Interdisciplinary Postgraduate Program in Digital Humanities at the Federal Rural University of Rio de Janeiro (PPGIHD-UFRRJ).
 
 Visiting Researcher at the Digital Humanities Lab, IHC, FSCH-NOVA, Lisbon, Portugal (2022 - 2023).
 
 Author of the book **A Corte em Festa**: experiências negras em carnavais do Rio de Janeiro (1879-1888) (Editora Prismas, 2016).
 
-Phd (2016) and Master (2011) in History at Universidade Federal Fluminense.
+PhD (2016) and Master (2011) in Social History at Universidade Federal Fluminense.
 
 Winner of the first (2011) and second (2020) prizes in the Monograph Competition of the National Center for Folklore and Popular Culture, IPHAN.
 
-Managing Editor of [Programming Historian](https://programminghistorian.org/pt/) in portuguese.
+Editor-in-Chief of [Programming Historian in Portuguese](https://programminghistorian.org/pt/).
 
 Researcher at the [Digital Humanities Lab - UFBA](http://labhd.ufba.br/).
 
-Member of National working group Emancipações e Pós-­Abolição - Anpuh.
+Founding member of the National Working Group Emancipações e Pós-Abolição - Anpuh.
 
-Has experience in Social History of Culture, Humanities and Digital History, Abolition of Slavery and Post-Abolition in Brazil and the Caribbean, working mainly on the following topics: 
-
-- Carnival
-- Citizenship
-- Transnational History
-- African Diaspora
-- Post-Abolition
-- History of Afro-Americas
-- Digital Newspapers Archives
-- Digital research methods
-- Programming languages for research in History
-- Web scraping.
+Has experience in Social History of Culture, Digital Humanities and Digital History, with emphasis on Abolition and Post-Abolition in Brazil and the Caribbean, carnival and citizenship, digital archives, computational methods applied to historical research, and the use of large language models (LLMs) and RAG architectures in Humanities research.
 
 Elementary and high school teacher in Rio de Janeiro, Brazil, between 2007 and 2017.
 

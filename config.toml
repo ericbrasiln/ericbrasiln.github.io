@@ -1,8 +1,11 @@
 baseurl      = "https://ericbrasil.com.br/"
 theme        = "hello-friend-ng"
-languageCode = "en-us"
-paginate     = 10
 enableEmoji  = true
+
+locale       = "en-us"
+
+[pagination]
+  pagerSize = 10
 
 [markup]
   [markup.goldmark]
@@ -67,7 +70,7 @@ defaultContentLanguage = 'en'
 
 [languages]
   [languages.en]
-    languageName = 'English'
+    label = 'English'
     title = "Eric Brasil"
     [languages.en.params]
       homeSubtitle = "historian and professor (IHLM/UNILAB)"
@@ -103,7 +106,7 @@ defaultContentLanguage = 'en'
         weight = 7
 
   [languages.pt-br]
-    languageName = 'Portuguese'
+    label = 'Portuguese'
     title = "Eric Brasil"
     [languages.pt-br.params]
       homeSubtitle = "historiador e professor (IHLM/UNILAB)"
